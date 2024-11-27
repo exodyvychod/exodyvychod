@@ -79,27 +79,27 @@ theme = 'calligraphy'
     dark_image_filter = "grayscale(35%)"
 
 [[menu.main]]
-  identifier = "home"
-  name = "Home"
+  identifier = "domov"
+  name = "Domov"
   url = "/"
   weight = 10
 
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
+  identifier = "kosice"
+  name = "Košice"
+  url = "/kosice/"
   weight = 20
 
 [[menu.main]]
-  identifier = "series"
-  name = "Series"
-  url = "/series/"
+  identifier = "presov"
+  name = "Prešov"
+  url = "/predov/"
   weight = 40
 
 [[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
+  identifier = "kontakt"
+  name = "Kontakt"
+  url = "/kontakt/"
   weight = 50
 
 ################################################################################
