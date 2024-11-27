@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme Guides on Calligraphy</title>
-    <link>http://localhost:1313/series/theme-guides/</link>
+    <link>http://localhost:1313/exodyvychod/series/theme-guides/</link>
     <description>Recent content in Theme Guides on Calligraphy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2021</copyright>
     <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/theme-guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/exodyvychod/series/theme-guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Style Guide</title>
-      <link>http://localhost:1313/blog/style-guide/</link>
+      <link>http://localhost:1313/exodyvychod/blog/style-guide/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/style-guide/</guid>
+      <guid>http://localhost:1313/exodyvychod/blog/style-guide/</guid>
       <description>&lt;p&gt;This article showcases what Markdown syntax can be utilized in Hugo content files, as well as what the output will look like with the Calligraphy theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Theme Installation</title>
-      <link>http://localhost:1313/blog/theme-installation/</link>
+      <link>http://localhost:1313/exodyvychod/blog/theme-installation/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/theme-installation/</guid>
+      <guid>http://localhost:1313/exodyvychod/blog/theme-installation/</guid>
       <description>&lt;p&gt;This article explains how to install the theme and provides example files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/blog/emoji-support/</link>
+      <link>http://localhost:1313/exodyvychod/blog/emoji-support/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/emoji-support/</guid>
+      <guid>http://localhost:1313/exodyvychod/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guest Post</title>
-      <link>http://localhost:1313/blog/guest-post/</link>
+      <link>http://localhost:1313/exodyvychod/blog/guest-post/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/guest-post/</guid>
+      <guid>http://localhost:1313/exodyvychod/blog/guest-post/</guid>
       <description>Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&#xA;Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
     </item>
   </channel>
