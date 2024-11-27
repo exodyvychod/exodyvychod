@@ -1,3 +1,0 @@
-# exodyvychod
-
-test
