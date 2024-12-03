@@ -11,3 +11,4 @@ provide a simple canvas that is elegant and ensures high readability for all
 visitors.
 
 ![Photo of Calligraphy Materials by Vlada Karpovich from Pexels](calligraphy-karpovich.jpg)
+![toto je moj prvy obrazok](prvy-obrazok.jpg)
