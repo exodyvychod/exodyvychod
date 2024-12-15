@@ -9,7 +9,7 @@ featureCaption = "Photo of an Inkwell by Angela Roma from Pexels"
 series = "Theme Guides"
 +++
 
-Toto ja tu teraz idem pomenit len na to aby sme zistili, ze ci viem mergovat do gitu!!!!!!!!!!!!!
+Toto ja tu teraz idem pomenit len na to aby sme zistili, ze ci viem mergovat do gitu aj v humennom!!!!!!!!!!!!!
 
 <!--more-->
 
