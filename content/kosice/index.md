@@ -1,5 +1,5 @@
 +++
-title = "About Calligraphy"
+title = "Kosice"
 +++
 
 **Cal·lig·ra·phy** *(kəˈliɡrəfē)* n. <br>
