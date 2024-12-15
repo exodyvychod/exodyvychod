@@ -59,5 +59,7 @@
     <loc>http://localhost:1313/exodyvychod/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/exodyvychod/kosice/</loc>
+  </url><url>
+    <loc>http://localhost:1313/exodyvychod/presov/</loc>
   </url>
 </urlset>
