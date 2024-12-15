@@ -93,7 +93,7 @@ theme = 'calligraphy'
 [[menu.main]]
   identifier = "presov"
   name = "Prešov"
-  url = "/predov/"
+  url = "/presov/"
   weight = 40
 
 [[menu.main]]
