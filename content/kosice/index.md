@@ -1,7 +1,11 @@
 +++
 title = "Košice"
 +++
-## Košice Variant A v párnom roku
+## Košice Variant A v párnom roku {#kosice-parny}
+
+
+**<ins>[Pre nepárny rok kliknite sem](#kosice-neparny)</ins>** 
+{.text-align-right}
 
 
 **<ins>1. deň:  Košice</ins>**
@@ -31,3 +35,24 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudova
 
 
 ![Poproč - História a národopisné tradície obce  - izba ](druhy-obrazok.jpg)
+
+
+## Košice Variant B v nepárnom roku {#kosice-neparny}
+
+
+**<ins>[Pre párny rok kliknite sem](#kosice-parny)</ins>**
+
+**<ins>1. deň:  Košice - mesto</ins>**
+
+&nbsp;jeKostol najsvätejšej trojice, prehliadka historického centra mesta,  archeologické múzeum
+
+
+![Fotka historického jadra Košíc](prvy-obrazok.jpg)
+
+**<ins>2.	Kostol Čečejovce – Rožňava – Betliar</ins>**
+
+**<ins>Ranogotický kostol Čečejovce</ins>**
+&nbsp;pochádza z konca 13. storočia, je zdobený freskami zo 14. storočia.  
+**<ins>Kaštieľ Betliar</ins>**
+sídlo rodu Andrássyovcov s pôvodným zariadením, vzácnymi zbierkami a historickou knižnicou obklopené nádherným rozsiahlym parkom.
+
