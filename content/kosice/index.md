@@ -1,10 +1,10 @@
 +++
 title = "Košice"
 +++
-## Košice Variant A v párnom roku {#kosice-parny}
+## Košice Variant A v nepárnom roku {#kosice-neparny}
 
 
-**<ins>[Pre nepárny rok kliknite sem](#kosice-neparny)</ins>** 
+**<ins>[Pre párny rok kliknite sem](#kosice-parny)</ins>** 
 {.text-align-right}
 
 
@@ -37,14 +37,15 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudova
 ![Poproč - História a národopisné tradície obce  - izba ](druhy-obrazok.jpg)
 
 
-## Košice Variant B v nepárnom roku {#kosice-neparny}
+## Košice Variant B v párnom roku {#kosice-parny}
 
 
-**<ins>[Pre párny rok kliknite sem](#kosice-parny)</ins>**
+**<ins>[Pre nepárny rok kliknite sem](#kosice-neparny)</ins>** 
+{.text-align-right}
 
 **<ins>1. deň:  Košice - mesto</ins>**
 
-&nbsp;jeKostol najsvätejšej trojice, prehliadka historického centra mesta,  archeologické múzeum
+Kostol najsvätejšej trojice, prehliadka historického centra mesta,  archeologické múzeum
 
 
 ![Fotka historického jadra Košíc](prvy-obrazok.jpg)
