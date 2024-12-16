@@ -91,8 +91,6 @@ h5 {
   margin-top: 2.352637rem;
   margin-bottom: 1.33rem;
 }
-
-
 h1 code,
 h2 code,
 h3 code,
@@ -712,12 +710,6 @@ button:disabled, button.disabled {
   flex-direction: column;
   grid-column: span 12;
 }
-
-#kosice-parny, #kosice-neparny {
-  margin-top: 0;
-  padding-top: 3.75rem;
-}
-
 @media only screen and (min-width: 54rem) {
   .card {
     grid-column: span 6;
