@@ -1,0 +1,17 @@
+{{ $options := dict
+    "targetPath" "css/style.css"
+    "transpiler" "dartsass"
+    "vars" site.Params.style
+}}
+{{ with resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | toCSS $options }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+
+{{ $options := dict
+    "targetPath" "css/custom_style.css"
+    "transpiler" "dartsass"
+    "vars" site.Params.style
+}}
+{{ with resources.Get "scss/styles.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | toCSS $options }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
