@@ -19,7 +19,7 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
 
 **<ins>Dóm svätej Alžbety</ins>**
  &nbsp;&nbsp;je najvýchodnejšia gotická katedrála v Európe, najväčší chrám na Slovensku. Je postavený v štýle vrcholnej gotiky.  Výstavba sa začala okolo roku 1378. Okrem impozantného exteriéru ukrýva katedrála aj vzácny interiér. Upúta najmä oltár sv. Alžbety so 48 obrazmi a neskorogotický krídlový oltár Navštívenia Panny Márie. V podzemí sa  nachádza hrobka Františka II. Rákócziho, vodcu protihabsburgského povstania. 
- ![Dóm svätej alžbety](dom-sv-alzbety-2.jpg) 
+ <!-- ![Dóm svätej alžbety](dom-sv-alzbety-2.jpg)  -->
 
 **<ins>Rodošto</ins>**
 &nbsp;&nbsp;Pamätný dom Františka II. Rákocziho. Ide o repliku exilového domu z tureckého mestečka Rodošto, kde vodca posledného uhorského stavovského povstania František II. Rákoczi žil v rokoch 1720-1735. Expozícia približuje osobu kniežaťa, jeho život vo vyhnanstve a slávnostný pohreb v Košiciach.  
@@ -34,7 +34,7 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
 kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudovaná na mieste opevneného kláštora z r. 1229-41 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
 **<ins>Jasovská jaskyňa</ins>**
 &nbsp;je mimoriadne bohatá na tvarovo a farebne veľmi pestrú kvapľovú výzdobu. Vďaka svojmu významu a  výzdobe bola zaradená do Zoznamu UNESCO.
-![Jasovská jasnyňa ](jasovska-jaskyna.jpg)
+![Jasovská jasnyňa ](jasov-jaskyna.jpg)
 
 **<ins>3. deň:  Spišský hrad – Žehra - Hodkovce</ins>**
 
@@ -49,6 +49,7 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudova
 
 **<ins>Hodkovce</ins>**
 &nbsp;barokovo-klasicistický kaštieľ Csákyovcov  je sídlom domova sociálnych služieb, prehliadka je možná v rámci tzv. sociálneho turizmu.
+![Hodkovce ](hodkovce.jpg)
 
 **<ins>4. deň:  Dargov - Trebišov – Tokajská vinohradnícka oblasť
 Trebišov</ins>**
@@ -62,7 +63,6 @@ Trebišov</ins>**
 &nbsp;pamätník pripomínajúci víťazstvo sovietskej armády v  bitke 
 o Dargovský priesmyk.
 
-![Dargov ](dargov.jpg)
 
 **<ins>Vinohradnícka oblasť Tokaj  </ins>**
 &nbsp;leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.) Významnou dominantou Tokajskej vínnej cesty  je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa.  
@@ -70,7 +70,27 @@ o Dargovský priesmyk.
 ![Tokajská vyhliadkova veža ](tokaj.jpg)   
 
 **<ins>5. deň:  Pozdišovce (keramika) – Michalovce  - Zemplínska  Šírava     
-Pozdišovce</ins>**
+**<ins>Pozdišovce </ins>**
+&nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
+
+**<ins>Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického  </ins>**
+&nbsp;Gorazd Zvonický bol významný básnik katolíckej moderny, prekladateľ, pedagóg, kňaz a misionár. 
+
+**<ins>Zemplínska šírava   </ins>**
+&nbsp;je vodná nádrž na východnom Slovensku. Je druhou najväčšou vodnou priehradou na Slovensku (po Liptovskej Mare). Okrem rekreácie slúži na zavlažovanie poľnohospodárskej pôdy Východoslovenskej nížiny, na ochranu pred povodňami a ako vodný zdroj pre priemysel. 
+
+**<ins>Pozdišovce </ins>**
+&nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
+
+![Pozdišovce ](pozdisovce.jpg)   
+
+**<ins>Michalovce  </ins>**
+&nbsp;barokovo-klasicistický kaštieľ rodu Sztárayovcov. Dnes sídlo Zemplínskeho múzea.  
+
+![Michalovce ](michalovce-kastiel.jpg)   
+
+
+**<ins>Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  </ins>**
 
 
 
