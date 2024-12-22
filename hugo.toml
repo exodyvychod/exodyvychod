@@ -1,5 +1,5 @@
 baseURL = "https://exodyvychod.github.io/exodyvychod/"
-title = "Calligraphy"
+title = "Exod Východ"
 copyright = "Copyright © 2021"
 paginate = 6
 languageCode = "en"
@@ -15,8 +15,8 @@ theme = 'calligraphy'
   logo = ""
   name = ""
   logoShort = ""
-  nameShort = "Calligraphy"
-  tagline = "Elegant Writing"
+  nameShort = "Exod Východ"
+  tagline = "Objavte s nami pekné miesta východného Slovenska"
 
 [params.meta]
   baseOGImage = "img/screenshot.jpg"
@@ -101,6 +101,12 @@ theme = 'calligraphy'
   name = "Kontakt"
   url = "/kontakt/"
   weight = 50
+
+  [[menu.main]]
+  identifier = "odporucame"
+  name = "Odporúčame"
+  url = "/odporucame/"
+  weight = 60
 
 ################################################################################
 ######       The block below has additional configuration settings.        #####
