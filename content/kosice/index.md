@@ -2,7 +2,7 @@
 title = "Košice"
 +++ 
 {#kosice-top}
-## Košice Variant A v nepárnom roku {#kosice-neparny}
+## Košice Variant A v nepárnom roku {#kosice-neparny .trip-variant}
 
 
 **<ins>[Pre párny rok kliknite sem](#kosice-parny)</ins>** 
@@ -108,7 +108,7 @@ o Dargovský priesmyk.
 
 
 
-## Košice Variant B v párnom roku {#kosice-parny}
+## Košice Variant B v párnom roku {#kosice-parny .trip-variant}
 
 
 **<ins>[Pre nepárny rok kliknite sem](#kosice-neparny)</ins>** 
@@ -131,6 +131,6 @@ sídlo rodu Andrássyovcov s pôvodným zariadením, vzácnymi zbierkami a histo
 
 
 
-**<ins>[Pre návrat na vrchol stránky kliknite sem](#kosice-parny)</ins>** 
+**<ins>[Pre návrat na vrchol stránky kliknite sem](#site-banner)</ins>** 
 {.text-align-right}
 
