@@ -313,16 +313,6 @@ kbd {
   clip: auto;
 }
 
-#kosice-parny, #kosice-neparny {
-  margin-top: 0;
-  padding-top: 3.75rem;
-}
-#kosice-parny, #kosice-neparny {
-  margin-top: 0;
-  padding-top: 3.75rem;
-}
-
-
 @media print {
   *,
   *::before,
