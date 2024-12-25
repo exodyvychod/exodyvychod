@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-dark-mode="off" data-animations="on">
+<html lang="en" data-dark-mode="on" data-animations="on">
 
 <head><script src="/exodyvychod/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=exodyvychod/livereload" data-no-instant defer></script>
   <meta charset="utf-8">
@@ -73,16 +73,6 @@ Dóm svätej Alžbety
 
     
     function detectPreferences() {
-
-      
-      if (window.matchMedia("(prefers-color-scheme: dark)").matches && !(localStorage.getItem("dark-mode") === "off") ) {
-        document.documentElement.setAttribute("data-dark-mode", "on");
-        localStorage.setItem("dark-mode", "on");
-      } else {
-        document.documentElement.setAttribute("data-dark-mode", "off");
-        localStorage.setItem("dark-mode", "off");
-      }
-      
       
       if (window.matchMedia("(preferes-reduced-animations)").matches && !localStorage.getItem("animations") === "on") {
         document.documentElement.setAttribute("data-animations", "off");
@@ -132,10 +122,10 @@ Dóm svätej Alžbety
           <a href="/exodyvychod/presov/">Prešov</a>
         </li>
         <li>
-          <a href="/exodyvychod/kontakt/">Kontakt</a>
+          <a href="/exodyvychod/odporucame/">Odporúčame</a>
         </li>
         <li>
-          <a href="/exodyvychod/odporucame/">Odporúčame</a>
+          <a href="/exodyvychod/kontakt/">Kontakt</a>
         </li>
       </ul>
     </nav>
@@ -300,7 +290,6 @@ sídlo rodu Andrássyovcov s pôvodným zariadením, vzácnymi zbierkami a histo
 </article>
     
     
- 
   </main>
   
   <footer id="site-footer" class="footer">
