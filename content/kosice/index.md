@@ -119,18 +119,72 @@ o Dargovský priesmyk.
 Kostol najsvätejšej trojice, prehliadka historického centra mesta,  archeologické múzeum
 
 
-![Fotka historického jadra Košíc](prvy-obrazok.jpg)
+![Fotka historického jadra Košíc](spievajuca-fontana.jpg)
 
-**<ins>2.	Kostol Čečejovce – Rožňava – Betliar</ins>**
+**<ins>2. deň	Kostol Čečejovce – Rožňava – Betliar</ins>**
 
 **<ins>Ranogotický kostol Čečejovce</ins>**
 &nbsp;pochádza z konca 13. storočia, je zdobený freskami zo 14. storočia.  
+
+**<ins>Rožňava</ins>**
+&nbsp;dominantami námestia sú renesančná strážna veža, radnica, biskupský palác, kláštor vincentiek a budova bývalej banskej komory.   
+
 **<ins>Kaštieľ Betliar</ins>**
 sídlo rodu Andrássyovcov s pôvodným zariadením, vzácnymi zbierkami a historickou knižnicou obklopené nádherným rozsiahlym parkom.
+ A natáčal sa tu seriál 1890.
+
+![Kaštieľ Betliar](kastiel-betliar.jpg)
+
+**<ins>Mauzóleum Andrássyovcov Krásnohorské Podhradie</ins>**
+mama hovorí, že tu text netreba a natáčal sa tu seriál 1890. 
+
+**<ins>3.	deň:  Krásna nad Hornádom - Trebišov - Tokajská vinohradnícka oblasť</ins>**
+
+**<ins>Krásna nad Hornádom</ins>**
+&nbsp;kaštieľ  –  expozícia  tradičného  kroja
+
+**<ins>Trebišov</ins>**
+&nbsp;barokový   kaštieľ  prestavaný  v neorenesančnom slohu   obklopený cudzokrajnými drevinami. Pozoruhodnou architektonickou  pamiatkou je neogotické  mauzóleum rodiny Andrássyovcov so   sarkofágom Júliusa Andrássyho - posledného ministerského predsedu Rakúsko-Uhorska.
+
+![Trebišovský  kaštieľ ](trebisov-kastiel.jpg)
+
+**<ins>Vinohradnícka  oblasť  Tokaj </ins>**
+&nbsp;je najmenšou  aj najatraktívnejšou   vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)
+
+![Vinohrady Tokaj ](tokaj-vinice.jpg)
+
+**<ins>4.deň:  Smolník – Medzev – Štós kúpele Smolník</ins>**
+
+**<ins>Smolník </ins>**
+&nbsp;centrum obce je pamiatková zóna - banícke domy, meštianske domy, kostol sv. Kataríny, baroková zvonica, tabaková továreň, kaplnky, trojičný stĺp, (prezentácia s výkladom baníka a s prehliadkou podzemných expozícií)
+
+**<ins>Smolnícky tajch </ins>**
+&nbsp;štvorhektárové jazero v prostredí Volovských vrchov bolo zásobárňou vody pre banskú činnosť v Smolníku
+
+**<ins>Medzev</ins>**
+&nbsp;múzeum kinematografie rodiny Schusterovej
+
+**<ins>Štós – klimatické kúpele</ins>**
+&nbsp;ani text ani obrazok zase
+
+
+**<ins>5.	deň:  Archeologické nálezisko a múzeum Nižná Myšľa – kaštieľ Šaca - Synagóga Košice</ins>**
+
+**<ins>Nižná Myšľa </ins>**
+&nbsp;archeologické nálezisko európskeho významu
+
+**<ins>Kaštieľ Šaca</ins>**
+&nbsp;rokokový kaštieľ z 18. storočia
+
+**<ins>Synagóga Košice</ins>**
+&nbsp;Ortodoxná synagóga predstavuje osobitú kombináciu historických prvkov a prvkov orientálnej architektúry. Expozícia judaík, Galéria Ľudovíta Felda
+
+**<ins>Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  </ins>**
 
 
 
 
-**<ins>[Pre návrat na vrchol stránky kliknite sem](#site-banner)</ins>** 
+
+**<ins>[Pre návrat na vrchol stránky kliknite sem](#to-top-button)</ins>** 
 {.text-align-right}
 
