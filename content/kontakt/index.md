@@ -3,9 +3,9 @@ title = "Prihláška a kontakt"
 +++
 **<ins>Ako sa prihlásiť na pobyt?</ins>**
 <ol>
-  <li>Stiahnite si dokument <a href="prihlaska.docx">Prihláška.docx</a>
-  <li>Vyplňte ho</li>
-  <li>Odošlite ho na <a href="mailto:eva.vladovicova@gmail.com">eva.vladovicova@gmail.com</a></li>
+    <li>Stiahnite si dokument <a href="prihlaska.docx" class="underline">Prihláška.docx</a>
+    <li>Vyplňte ho</li>
+    <li>Odošlite ho na <a href="mailto:eva.vladovicova@gmail.com" class="underline">eva.vladovicova@gmail.com</a></li>
 </ol>
   
 **<ins>Kontaktné údaje</ins>**  

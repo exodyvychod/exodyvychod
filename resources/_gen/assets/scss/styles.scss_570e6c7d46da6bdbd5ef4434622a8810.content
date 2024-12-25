@@ -69,6 +69,13 @@ a:hover .card__description, a:focus .card__description {
   overflow: hidden;
 }
 
+.underline {
+  background-position: 0 95%, 100% 95%, 0 95%;
+  background-image: linear-gradient(transparent, transparent), linear-gradient(currentColor, currentColor), linear-gradient(var(--color-text-link), var(--color-text-link));
+  background-repeat: no-repeat;
+  background-size: 0 1px, 100% 1px, 0 1px;
+}
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
