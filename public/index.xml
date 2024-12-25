@@ -80,13 +80,6 @@
       <description>&lt;p&gt;Placeholder to demonstrate pagination.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact Calligraphy</title>
-      <link>http://localhost:1313/exodyvychod/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/exodyvychod/contact/</guid>
-      <description>&lt;p&gt;If you have an issue or question regarding the theme, please visit the&#xA;&lt;a href=&#34;https://github.com/pacollins/calligraphy&#34;&gt;GitHub Repository&lt;/a&gt; so that we can help investigate.&lt;/p&gt;&#xA;&#xA;&lt;form name=&#34;contact&#34; data-netlify=&#34;true&#34; data-netlify-recaptcha=&#34;true&#34; method=&#34;POST&#34; action=&#34;thank-you&#34;&gt;&#xA;    &lt;label for=&#34;contact__name&#34;&gt;Name&lt;/label&gt;&#xA;    &lt;input id=&#34;contact__name&#34; name=&#34;name&#34; type=&#34;text&#34; placeholder=&#34;John Doe&#34; required autofocus&gt;&#xA;    &lt;label for=&#34;contact__email&#34;&gt;Email&lt;/label&gt;&#xA;    &lt;input id=&#34;contact__email&#34; type=&#34;email&#34; placeholder=&#34;jdoe@example.com&#34; required&gt;&#xA;    &lt;label for=&#34;contact__subject&#34;&gt;Subject&lt;/label&gt;&#xA;    &lt;input id=&#34;contact__subject&#34; name=&#34;_subject&#34; type=&#34;text&#34; placeholder=&#34;Quick Question&#34; required&gt;&#xA;    &lt;label for=&#34;contact__message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;contact__message&#34; name=&#34;message&#34; placeholder=&#34;Hey, I had a quick question about...&#34; rows=&#34;5&#34;&gt;&lt;/textarea&gt;&#xA;    &lt;div data-netlify-recaptcha=&#34;true&#34;&gt;&lt;/div&gt;&#xA;    &lt;button type=&#34;submit&#34;&gt;Submit&lt;/button&gt;&#xA;    &lt;button type=&#34;reset&#34;&gt;Reset&lt;/button&gt;&#xA;&lt;/form&gt;</description>
-    </item>
-    <item>
       <title>Košice</title>
       <link>http://localhost:1313/exodyvychod/kosice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/exodyvychod/presov/</guid>
       <description>&lt;p class=&#34;text-align-right&#34;&gt;&lt;strong&gt;Cal·lig·ra·phy&lt;/strong&gt; &lt;em&gt;(kəˈliɡrəfē)&lt;/em&gt; n. &lt;br&gt;&#xA;decorative handwriting or handwritten lettering&lt;/p&gt;&#xA;&lt;p&gt;Calligraphy is a theme by &lt;a href=&#34;https://pacollins.com/&#34;&gt;Patrick A Collins&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator. Inspired by its namesake, the theme aims to&#xA;provide a simple canvas that is elegant and ensures high readability for all&#xA;visitors.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;treti-obrazok.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/exodyvychod/exodyvychod/presov/treti-obrazok_hu16711529377326085912.jpg&#34; alt=&#34;Photo of Calligraphy Materials by Vlada Karpovich from Pexels&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;Photo of Calligraphy Materials by Vlada Karpovich from Pexels&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;druhy-obrazok.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/exodyvychod/exodyvychod/presov/druhy-obrazok_hu10262030843738536197.jpg&#34; alt=&#34;toto je moj prvy obrazok&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;toto je moj prvy obrazok&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prihláška a kontakt</title>
+      <link>http://localhost:1313/exodyvychod/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/exodyvychod/kontakt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;ins&gt;Ako sa prihlásiť na pobyt?&lt;/ins&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;  &lt;li&gt;Stiahnite si dokument &lt;a href=&#34;prihlaska.docx&#34;&gt;Prihláška.docx&lt;/a&gt;&#xA;  &lt;li&gt;Vyplňte ho&lt;/li&gt;&#xA;  &lt;li&gt;Odošlite ho na &lt;a href=&#34;mailto:eva.vladovicova@gmail.com&#34;&gt;eva.vladovicova@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;ins&gt;Kontaktné údaje&lt;/ins&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;RNDr. Eva Vladovičová&lt;br&gt;&#xA;SOŠ technická, Družstevná 1474/19&lt;br&gt;&#xA;066 01 Humenné&lt;br&gt;&#xA;č. tel.: 057/7720 454&lt;br&gt;&#xA;mobil: 0903 129 149&lt;br&gt;&#xA;e-mail: &lt;a href=&#34;mailto:eva.vladovicova@gmail.com&#34;&gt;eva.vladovicova@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toto sú výlety ktoré odporúčame</title>
