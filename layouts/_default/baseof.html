@@ -84,7 +84,8 @@
   </main>
   
   {{ block "footer" . }}{{ partialCached "site/footer.html" . }}{{ end }}
-
+  {{ partial "modal.html" . }}
+  <script defer language="javascript" type="text/javascript"  src="{{ "js/scripts.js" | urlize | relURL }}"></script>
 </body>
 
 </html>
