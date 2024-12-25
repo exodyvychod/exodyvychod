@@ -96,16 +96,16 @@ theme = 'calligraphy'
   url = "/presov/"
   weight = 40
 
-[[menu.main]]
-  identifier = "kontakt"
-  name = "Kontakt"
-  url = "/kontakt/"
-  weight = 50
-
   [[menu.main]]
   identifier = "odporucame"
   name = "Odporúčame"
   url = "/odporucame/"
+  weight = 50
+
+[[menu.main]]
+  identifier = "kontakt"
+  name = "Kontakt"
+  url = "/kontakt/"
   weight = 60
 
 ################################################################################
