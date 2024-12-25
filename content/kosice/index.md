@@ -32,6 +32,8 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
 
 **<ins>Jasov</ins>**
 kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudovaná na mieste opevneného kláštora z r. 1229-41 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
+![Jasov kláštor](jasov-klastor.jpg)
+
 **<ins>Jasovská jaskyňa</ins>**
 &nbsp;je mimoriadne bohatá na tvarovo a farebne veľmi pestrú kvapľovú výzdobu. Vďaka svojmu významu a  výzdobe bola zaradená do Zoznamu UNESCO.
 ![Jasovská jasnyňa ](jasov-jaskyna.jpg)
@@ -40,7 +42,7 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudova
 
 **<ins>Spišský hrad</ins>**
 &nbsp;pôvodne kráľovský hrad, jeden z najrozsiahlejších hradných komplexov v strednej Európe. (Pamiatka UNESCO)
-![Spišský hrad ](spissky-hrad-2.webp)
+![Spišský hrad ](spissky-hrad.jpg)
 
 **<ins>Žehra</ins>**
 &nbsp;kostol Ducha Svätého je neskororománska sakrálna stavba z druhej polovice 13. storočia. (Pamiatka  UNESCO)
@@ -76,8 +78,9 @@ o Dargovský priesmyk.
 **<ins>Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického  </ins>**
 &nbsp;Gorazd Zvonický bol významný básnik katolíckej moderny, prekladateľ, pedagóg, kňaz a misionár. 
 
-**<ins>Zemplínska šírava   </ins>**
+**<ins>Zemplínska šírava</ins>**
 &nbsp;je vodná nádrž na východnom Slovensku. Je druhou najväčšou vodnou priehradou na Slovensku (po Liptovskej Mare). Okrem rekreácie slúži na zavlažovanie poľnohospodárskej pôdy Východoslovenskej nížiny, na ochranu pred povodňami a ako vodný zdroj pre priemysel. 
+![Zemplínska šírava](zemplinska-sirava.jpg)
 
 **<ins>Pozdišovce </ins>**
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
