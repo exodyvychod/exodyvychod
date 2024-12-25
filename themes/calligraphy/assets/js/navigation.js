@@ -103,6 +103,6 @@ const toggleBanner = (direction, curScroll) => {
 
 const toTop = document.querySelector("#to-top-button");
 
-toTop.addEventListener("click", (e) => {
+toTop?.addEventListener("click", (e) => {
     window.scrollTo(0, 0);
 });
