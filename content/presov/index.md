@@ -25,6 +25,8 @@ Slúžila ako mestská vináreň, neskôr sa z nej stala väznica a mučiareň.
 **Rákocziho palác** je krásna renesančná stavba postavená v 17. storočí. Bola
 považovaná za najkrajšiu stavbu Horného Uhorska. Dnes krajské múzeum.
 
+![Rákocziho palác](rakocziho-palac.jpg)
+
 ### 2. deň: Sabinov - Hniezdne - Stará Ľubovňa
 
 **Sabinov** - v letných mesiacoch roku 1964 sa v Sabinove nakrúcal film Obchod
@@ -70,7 +72,7 @@ Alžbeta, zvaná Sisi.
 ![Drevený kostolík vo Vyšnom Komárniku](vysny-komarnik.jpg)
 
 **Dukla** - o Dukliansky priesmyk sa na jeseň 1944 odohrali jedny z najťažších
-bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;československého armádneho zboru s vojnovým cintorínom. Vyhliadková veža
+bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;československého armádneho zboru s vojnovým cintorínom. Vyhliadková veža stojí na mieste kde mal počas bojov veliteľské stanovište generál Ludvík Svoboda.
 
 ![Dukla](dukla.jpg)
 
@@ -113,6 +115,6 @@ kráľa Karola Róberta.Za hodinovou vežou obnovili barokovú biskupskú záhra
 
 ![Spišská kapitula](spiska-kapitula.jpg)
 
-**Spišské Podhradie synagóga**
+**Spišské Podhradie synagóga** je jediná zachovaná na Spiši. Postavená bola v roku 1875 v neskorogotickom slohu s prvkami inšpirovanými orientálnou architektúrou. 
 
 ![Spišské Podhradie synagóga](synagoga-spisske-podhradie.jpg)
