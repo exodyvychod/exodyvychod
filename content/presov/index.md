@@ -70,9 +70,7 @@ Alžbeta, zvaná Sisi.
 ![Drevený kostolík vo Vyšnom Komárniku](vysny-komarnik.jpg)
 
 **Dukla** - o Dukliansky priesmyk sa na jeseň 1944 odohrali jedny z najťažších
-bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník
-1. československého armádneho zboru s vojnovým cintorínom. Vyhliadková
-veža
+bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;československého armádneho zboru s vojnovým cintorínom. Vyhliadková veža
 
 ![Dukla](dukla.jpg)
 

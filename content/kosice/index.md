@@ -5,11 +5,11 @@ title = "Košice"
 ## Košice Variant A v nepárnom roku {#kosice-neparny .trip-variant}
 
 
-**<ins>[Pre párny rok kliknite sem](#kosice-parny)</ins>** 
+**[Pre párny rok kliknite sem](#kosice-parny)** 
 {.text-align-right}
 
 
-**<ins>1. deň:  Košice</ins>**
+### 1. deň: Košice
 
 Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovensku. Umelecky a historicky najhodnotnejšie objekty sa nachádzajú okolo pôvodného stredovekého námestia.
 
@@ -17,83 +17,84 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
 ![Historické centrum Košíc](kosice-centrum.jpg)
 
 
-**<ins>Dóm svätej Alžbety</ins>**
+**Dóm svätej Alžbety**
  &nbsp;&nbsp;je najvýchodnejšia gotická katedrála v Európe, najväčší chrám na Slovensku. Je postavený v štýle vrcholnej gotiky.  Výstavba sa začala okolo roku 1378. Okrem impozantného exteriéru ukrýva katedrála aj vzácny interiér. Upúta najmä oltár sv. Alžbety so 48 obrazmi a neskorogotický krídlový oltár Navštívenia Panny Márie. V podzemí sa  nachádza hrobka Františka II. Rákócziho, vodcu protihabsburgského povstania. 
  <!-- ![Dóm svätej alžbety](dom-sv-alzbety-2.jpg)  -->
 
-**<ins>Rodošto</ins>**
+**Rodošto**
 &nbsp;&nbsp;Pamätný dom Františka II. Rákocziho. Ide o repliku exilového domu z tureckého mestečka Rodošto, kde vodca posledného uhorského stavovského povstania František II. Rákoczi žil v rokoch 1720-1735. Expozícia približuje osobu kniežaťa, jeho život vo vyhnanstve a slávnostný pohreb v Košiciach.  
-**<ins>Košický zlatý poklad</ins>**
+**Košický zlatý poklad**
 &nbsp;je komplex 2 920 zlatých mincí, troch zlatých medailí  a zlatej renesančnej reťaze objavený pri kopaní základov budovy finančného riaditeľstva na Hlavnej ulici č.68 v Košiciach v roku 1935. Unikátna zbierka  z obdobia 15. až 17. storočia je vo svojej nepoškodenej podobe od doby nálezu jedným z najväčších zlatých pokladov na svete.  
-**<ins>Urbanova veža</ins>**
+**Urbanova veža**
 &nbsp;v prvej polovici 14. storočia a pôvodne slúžila ako zvonica dómu. Pred vežou sa nachádza zrekonštruovaný zvon Urban, ktorý bol zničený požiarom v roku 1966.
 
-**<ins>2.	deň: Jasov kláštor – Jasovská  jaskyňa – Rudník - Poproč</ins>**
+### 2. deň: Jasov kláštor – Jasovská  jaskyňa – Rudník - Poproč
 
-**<ins>Jasov</ins>**
+**Jasov**
 kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudovaná na mieste opevneného kláštora z r. 1229-41 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
 ![Jasov kláštor](jasov-klastor.jpg)
 
-**<ins>Jasovská jaskyňa</ins>**
+**Jasovská jaskyňa**
 &nbsp;je mimoriadne bohatá na tvarovo a farebne veľmi pestrú kvapľovú výzdobu. Vďaka svojmu významu a  výzdobe bola zaradená do Zoznamu UNESCO.
 ![Jasovská jasnyňa ](jasov-jaskyna.jpg)
 
-**<ins>3. deň:  Spišský hrad – Žehra - Hodkovce</ins>**
+### 3. deň: Spišský hrad – Žehra - Hodkovce
 
-**<ins>Spišský hrad</ins>**
+**Spišský hrad**
 &nbsp;pôvodne kráľovský hrad, jeden z najrozsiahlejších hradných komplexov v strednej Európe. (Pamiatka UNESCO)
 ![Spišský hrad ](spissky-hrad.jpg)
 
-**<ins>Žehra</ins>**
+**Žehra**
 &nbsp;kostol Ducha Svätého je neskororománska sakrálna stavba z druhej polovice 13. storočia. (Pamiatka  UNESCO)
 
 ![Žehra ](zehra.jpg)
 
-**<ins>Hodkovce</ins>**
+**Hodkovce**
 &nbsp;barokovo-klasicistický kaštieľ Csákyovcov  je sídlom domova sociálnych služieb, prehliadka je možná v rámci tzv. sociálneho turizmu.
 ![Hodkovce ](hodkovce.jpg)
 
-**<ins>4. deň:  Dargov - Trebišov – Tokajská vinohradnícka oblasť
-Trebišov</ins>**
+### 4. deň: Dargov - Trebišov – Tokajská vinohradnícka oblasť
+Trebišov**
 
-**<ins>Trebišov</ins>**
+**Trebišov**
 &nbsp;pôvodne barokový kaštieľ, dal postaviť v roku 1786 gróf I. Csáky.     V 19. st. ho zdedila rodina Andrássyovcov, prestavala ho v neorenesančnom slohu a obklopila parkom s cudzokrajnými drevinami. Pozoruhodnou architektonickou pamiatkou je neogotické mauzóleum rodiny Andrássyovcov z r. 1893 so sarkofágom posledného ministerského predsedu Rakúsko-Uhorska Júliusa Andrássyho.
 
 ![Trebišovský  kaštieľ ](trebisov-kastiel.jpg)
 
-**<ins>Dargov </ins>**
+**Dargov **
 &nbsp;pamätník pripomínajúci víťazstvo sovietskej armády v  bitke 
 o Dargovský priesmyk.
 
 
-**<ins>Vinohradnícka oblasť Tokaj  </ins>**
+**Vinohradnícka oblasť Tokaj  **
 &nbsp;leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.) Významnou dominantou Tokajskej vínnej cesty  je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa.  
 
 ![Tokajská vyhliadkova veža ](tokaj.jpg)   
 
-**<ins>5. deň:  Pozdišovce (keramika) – Michalovce  - Zemplínska  Šírava     
-**<ins>Pozdišovce </ins>**
+### 5. deň: Pozdišovce (keramika) – Michalovce  - Zemplínska  Šírava     
+
+**Pozdišovce **
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
 
-**<ins>Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického  </ins>**
+**Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického  **
 &nbsp;Gorazd Zvonický bol významný básnik katolíckej moderny, prekladateľ, pedagóg, kňaz a misionár. 
 
-**<ins>Zemplínska šírava</ins>**
+**Zemplínska šírava**
 &nbsp;je vodná nádrž na východnom Slovensku. Je druhou najväčšou vodnou priehradou na Slovensku (po Liptovskej Mare). Okrem rekreácie slúži na zavlažovanie poľnohospodárskej pôdy Východoslovenskej nížiny, na ochranu pred povodňami a ako vodný zdroj pre priemysel. 
 ![Zemplínska šírava](zemplinska-sirava.jpg)
 
-**<ins>Pozdišovce </ins>**
+**Pozdišovce **
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
 
 ![Pozdišovce ](pozdisovce.jpg)   
 
-**<ins>Michalovce  </ins>**
+**Michalovce  **
 &nbsp;barokovo-klasicistický kaštieľ rodu Sztárayovcov. Dnes sídlo Zemplínskeho múzea.  
 
 ![Michalovce ](michalovce-kastiel.jpg)   
 
 
-**<ins>Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  </ins>**
+**Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  **
 
 
 
@@ -114,80 +115,80 @@ o Dargovský priesmyk.
 ## Košice Variant B v párnom roku {#kosice-parny .trip-variant}
 
 
-**<ins>[Pre nepárny rok kliknite sem](#kosice-neparny)</ins>** 
+**[Pre nepárny rok kliknite sem](#kosice-neparny)** 
 {.text-align-right}
 
-**<ins>1. deň:  Košice - mesto</ins>**
+### 1. deň: Košice - mesto
 
 Kostol najsvätejšej trojice, prehliadka historického centra mesta,  archeologické múzeum
 
 
 ![Fotka historického jadra Košíc](spievajuca-fontana.jpg)
 
-**<ins>2. deň	Kostol Čečejovce – Rožňava – Betliar</ins>**
+### 2. deň:	Kostol Čečejovce – Rožňava – Betliar
 
-**<ins>Ranogotický kostol Čečejovce</ins>**
+**Ranogotický kostol Čečejovce**
 &nbsp;pochádza z konca 13. storočia, je zdobený freskami zo 14. storočia.  
 
-**<ins>Rožňava</ins>**
+**Rožňava**
 &nbsp;dominantami námestia sú renesančná strážna veža, radnica, biskupský palác, kláštor vincentiek a budova bývalej banskej komory.   
 
-**<ins>Kaštieľ Betliar</ins>**
+**Kaštieľ Betliar**
 sídlo rodu Andrássyovcov s pôvodným zariadením, vzácnymi zbierkami a historickou knižnicou obklopené nádherným rozsiahlym parkom.
  A natáčal sa tu seriál 1890.
 
 ![Kaštieľ Betliar](kastiel-betliar.jpg)
 
-**<ins>Mauzóleum Andrássyovcov Krásnohorské Podhradie</ins>**
+**Mauzóleum Andrássyovcov Krásnohorské Podhradie**
 mama hovorí, že tu text netreba a natáčal sa tu seriál 1890. 
 
-**<ins>3.	deň:  Krásna nad Hornádom - Trebišov - Tokajská vinohradnícka oblasť</ins>**
+### 3. deň: Krásna nad Hornádom - Trebišov - Tokajská vinohradnícka oblasť
 
-**<ins>Krásna nad Hornádom</ins>**
+**Krásna nad Hornádom**
 &nbsp;kaštieľ  –  expozícia  tradičného  kroja
 
-**<ins>Trebišov</ins>**
+**Trebišov**
 &nbsp;barokový   kaštieľ  prestavaný  v neorenesančnom slohu   obklopený cudzokrajnými drevinami. Pozoruhodnou architektonickou  pamiatkou je neogotické  mauzóleum rodiny Andrássyovcov so   sarkofágom Júliusa Andrássyho - posledného ministerského predsedu Rakúsko-Uhorska.
 
 ![Trebišovský  kaštieľ ](trebisov-kastiel.jpg)
 
-**<ins>Vinohradnícka  oblasť  Tokaj </ins>**
+**Vinohradnícka  oblasť  Tokaj **
 &nbsp;je najmenšou  aj najatraktívnejšou   vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)
 
 ![Vinohrady Tokaj ](tokaj-vinice.jpg)
 
-**<ins>4.deň:  Smolník – Medzev – Štós kúpele Smolník</ins>**
+### 4.deň: Smolník – Medzev – Štós kúpele Smolník
 
-**<ins>Smolník </ins>**
+**Smolník **
 &nbsp;centrum obce je pamiatková zóna - banícke domy, meštianske domy, kostol sv. Kataríny, baroková zvonica, tabaková továreň, kaplnky, trojičný stĺp, (prezentácia s výkladom baníka a s prehliadkou podzemných expozícií)
 
-**<ins>Smolnícky tajch </ins>**
+**Smolnícky tajch **
 &nbsp;štvorhektárové jazero v prostredí Volovských vrchov bolo zásobárňou vody pre banskú činnosť v Smolníku
 
-**<ins>Medzev</ins>**
+**Medzev**
 &nbsp;múzeum kinematografie rodiny Schusterovej
 
-**<ins>Štós – klimatické kúpele</ins>**
+**Štós – klimatické kúpele**
 &nbsp;ani text ani obrazok zase
 
 
-**<ins>5.	deň:  Archeologické nálezisko a múzeum Nižná Myšľa – kaštieľ Šaca - Synagóga Košice</ins>**
+### 5. deň: Archeologické nálezisko a múzeum Nižná Myšľa – kaštieľ Šaca - Synagóga Košice
 
-**<ins>Nižná Myšľa </ins>**
+**Nižná Myšľa **
 &nbsp;archeologické nálezisko európskeho významu
 
-**<ins>Kaštieľ Šaca</ins>**
+**Kaštieľ Šaca**
 &nbsp;rokokový kaštieľ z 18. storočia
 
-**<ins>Synagóga Košice</ins>**
+**Synagóga Košice**
 &nbsp;Ortodoxná synagóga predstavuje osobitú kombináciu historických prvkov a prvkov orientálnej architektúry. Expozícia judaík, Galéria Ľudovíta Felda
 
-**<ins>Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  </ins>**
+**Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  **
 
 
 
 
 
-**<ins>[Pre návrat na vrchol stránky kliknite sem](#to-top-button)</ins>** 
+**[Pre návrat na vrchol stránky kliknite sem](#to-top-button)** 
 {.text-align-right}
 

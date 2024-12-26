@@ -1,14 +1,15 @@
 +++
 title = "Prihláška a kontakt"
 +++
-**<ins>Ako sa prihlásiť na pobyt?</ins>**
+## Ako sa prihlásiť na pobyt?
+
 <ol>
     <li>Stiahnite si dokument <a href="prihlaska.docx" class="underline">Prihláška.docx</a>
     <li>Vyplňte ho</li>
     <li>Odošlite ho na <a href="mailto:eva.vladovicova@gmail.com" class="underline">eva.vladovicova@gmail.com</a></li>
 </ol>
   
-**<ins>Kontaktné údaje</ins>**  
+## Kontaktné údaje
   
 RNDr. Eva Vladovičová  
 SOŠ technická, Družstevná 1474/19  
