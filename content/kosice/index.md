@@ -2,20 +2,18 @@
 title = "Košice"
 +++ 
 {#kosice-top}
-## Košice Variant A v nepárnom roku {#kosice-neparny .trip-variant}
+## Variant A v nepárnom roku {#kosice-neparny .trip-variant}
 
+**Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
 **[Pre párny rok kliknite sem](#kosice-parny)** 
 {.text-align-right}
-
 
 ### 1. deň: Košice
 
 Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovensku. Umelecky a historicky najhodnotnejšie objekty sa nachádzajú okolo pôvodného stredovekého námestia.
 
-
 ![Historické centrum Košíc](kosice-centrum.jpg)
-
 
 **Dóm svätej Alžbety**
  &nbsp;&nbsp;je najvýchodnejšia gotická katedrála v Európe, najväčší chrám na Slovensku. Je postavený v štýle vrcholnej gotiky.  Výstavba sa začala okolo roku 1378. Okrem impozantného exteriéru ukrýva katedrála aj vzácny interiér. Upúta najmä oltár sv. Alžbety so 48 obrazmi a neskorogotický krídlový oltár Navštívenia Panny Márie. V podzemí sa  nachádza hrobka Františka II. Rákócziho, vodcu protihabsburgského povstania. 
@@ -93,27 +91,9 @@ o Dargovský priesmyk.
 
 ![Michalovce ](michalovce-kastiel.jpg)   
 
-
-**Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  **
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Košice Variant B v párnom roku {#kosice-parny .trip-variant}
 
+**Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!**
 
 **[Pre nepárny rok kliknite sem](#kosice-neparny)** 
 {.text-align-right}
@@ -183,12 +163,5 @@ mama hovorí, že tu text netreba a natáčal sa tu seriál 1890.
 **Synagóga Košice**
 &nbsp;Ortodoxná synagóga predstavuje osobitú kombináciu historických prvkov a prvkov orientálnej architektúry. Expozícia judaík, Galéria Ľudovíta Felda
 
-**Upozorňujeme  účastníkov,  že  poradie  výletov  sa  môže  meniť!  **
-
-
-
-
-
 **[Pre návrat na vrchol stránky kliknite sem](#to-top-button)** 
 {.text-align-right}
-
