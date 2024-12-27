@@ -2,6 +2,30 @@
 title = "Odporúčame"
 +++
 
+## Nitra a okolie
+
+**Termín: 11. 8. - 17. 8. 2025**
+
+**Program:** Hrad, poľnohospodárske múzeum v Nitre, Drážovský kostolík, poľovnícky kaštieľ v Palárikove, hvezdáreň a Dom Hany Hegerovej v Hurbanove, Nádvorie Európy v Komárne, plávajúci lodný mlyn a najdlhší drevený most v Európe v Kolárove, hrad a Tekovské múzeum v Leviciach, skalné obydlia v Brhlovciach, Soví zámoček, Sachérova torta, izba Franza Schuberta, Esterházyho kaštieľ a hrobka v Želiezovciach, zubria zvernica, zámok a  žrebčín v Topoľčiankach, Arborétum Mlyňany, pamätná izba Karola Duchoňa, neogotický a renesančný kaštieľ Esterházyovcov, vlastivedné múzeum v Galante, motýlia záhrada vo Vlčkovciach.
+
+**Cena:** pripravuje sa
+
+**Ubytovanie:** v internáte - bunkový systém 2 a 3 posteľové izby so sociálnym zariadením a polpenzia
+
+**Doprava:** hromadná preprava autobusom počas pobytu
+
+**Služby:** sprievodcu s výkladom
+
+### Kontakt
+
+Mgr. Veronika Mondočková  
+Hurbanova 910/18  
+927 01 Šaľa
+
+**Email:** exod.nitra@gmail.com  
+**Mobil O2:** +421 949 839 315  
+**Mobil 4-ka:** +421 950 385 575
+
 ## CHKO Brdy
 
 **Termín: 4. – 10. 8. 2025**
