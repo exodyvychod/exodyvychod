@@ -21,12 +21,13 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
 
 **Rodošto**
 &nbsp;&nbsp;Pamätný dom Františka II. Rákocziho. Ide o repliku exilového domu z tureckého mestečka Rodošto, kde vodca posledného uhorského stavovského povstania František II. Rákoczi žil v rokoch 1720 - 1735. Expozícia približuje osobu kniežaťa, jeho život vo vyhnanstve a slávnostný pohreb v Košiciach.  
+
 **Košický zlatý poklad**
 &nbsp;je komplex 2 920 zlatých mincí, troch zlatých medailí  a zlatej renesančnej reťaze objavený pri kopaní základov budovy finančného riaditeľstva na Hlavnej ulici č. 68 v Košiciach v roku 1935. Unikátna zbierka  z obdobia 15. až 17. storočia je vo svojej nepoškodenej podobe od doby nálezu jedným z najväčších zlatých pokladov na svete.  
-**Urbanova veža**
-&nbsp;v prvej polovici 14. storočia a pôvodne slúžila ako zvonica dómu. Pred vežou sa nachádza zrekonštruovaný zvon Urban, ktorý bol zničený požiarom v roku 1966.
 
-### 2. deň: Jasov kláštor – Jasovská  jaskyňa - Poproč
+**Urbanova veža** je druhou najstaršou pamiatkou v Košiciach. Postavená bola v prvej polovici 14. storočia a pôvodne slúžila ako zvonica dómu. Pred vežou sa nachádza zrekonštruovaný zvon Urban, ktorý bol zničený požiarom v roku 1966.
+
+### 2. deň: Jasov kláštor – Jasovská jaskyňa - Poproč
 
 **Jasov**
 kláštor premonštrátov – veľkolepá baroková stavba z r. 1750 - 1766 vybudovaná na mieste opevneného kláštora z r. 1229 - 1241 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
@@ -35,6 +36,8 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750 - 1766 vybu
 **Jasovská jaskyňa**
 &nbsp;je mimoriadne bohatá na tvarovo a farebne veľmi pestrú kvapľovú výzdobu. Vďaka svojmu významu a  výzdobe bola zaradená do Zoznamu UNESCO.
 ![Jasovská jasnyňa ](jasov-jaskyna.jpg)
+
+**Poproč** - História a národopisné tradície obce  - izba tradícií.  
 
 ### 3. deň: Spišský hrad – Žehra - Hodkovce
 
@@ -75,17 +78,14 @@ Významnou dominantou Tokajskej vínnej cesty  je vyhliadková veža v tvare dre
 **Pozdišovce**
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
 
+![Pozdišovce ](pozdisovce.jpg)   
+
 **Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického**
 &nbsp;Gorazd Zvonický bol významný básnik katolíckej moderny, prekladateľ, pedagóg, kňaz a misionár. 
 
 **Zemplínska šírava**
 &nbsp;je vodná nádrž na východnom Slovensku. Je druhou najväčšou vodnou priehradou na Slovensku (po Liptovskej Mare). Okrem rekreácie slúži na zavlažovanie poľnohospodárskej pôdy Východoslovenskej nížiny, na ochranu pred povodňami a ako vodný zdroj pre priemysel. 
 ![Zemplínska šírava](zemplinska-sirava.jpg)
-
-**Pozdišovce**
-&nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
-
-![Pozdišovce ](pozdisovce.jpg)   
 
 **Michalovce**
 &nbsp;barokovo-klasicistický kaštieľ rodu Sztárayovcov. Dnes sídlo Zemplínskeho múzea.  
