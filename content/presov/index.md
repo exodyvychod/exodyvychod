@@ -67,7 +67,7 @@ Alžbeta, zvaná Sissi.
 
 ![Bardejovské kúpele](bardejovske-kupele.jpg)
 
-**Drevený kostolík vo Vyšnom Komárniku** má ikonostas z 18 stor. a oltár s centrálnym obrazom zo 16. stor.
+**Drevený kostolík vo Vyšnom Komárniku** má ikonostas z 18. stor. a oltár s centrálnym obrazom zo 16. stor.
 
 ![Drevený kostolík vo Vyšnom Komárniku](vysny-komarnik.jpg)
 
@@ -78,11 +78,11 @@ bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;českosl
 
 ### 4. deň: Solivar – Fintice – Hanušovce nad Topľou
 
-**Solivar v Prešove** - patrí medzi najvýznamnejšie technické pamiatky na
+**Solivar (časť Prešova)** - patrí medzi najvýznamnejšie technické pamiatky na
 Slovensku. Je to unikátny komplex technických objektov na čerpanie a varenie
 soli zo soľanky, pochádzajúci zo 17. stor.
 
-![Solivar v Prešove](solivar-presov.jpg)
+![Solivar (časť Prešova)](solivar-presov.jpg)
 
 **Fintice** - najvýznamnejšou kultúrno-historickou pamiatkou je renesančný
 kaštieľ z prvej pol. 17. stor. Je v ňom galéria a múzeum ľudového umenia.
@@ -115,6 +115,6 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 
 ![Spišská Kapitula](spiska-kapitula.jpg)
 
-**Spišské Podhradie synagóga** je jediná zachovaná na Spiši. Postavená bola v roku 1875 v neskorogotickom slohu s prvkami inšpirovanými orientálnou architektúrou. 
+**Spišské Podhradie** - synagóga je jediná zachovaná na Spiši. Postavená bola v roku 1875 v neskorogotickom slohu s prvkami inšpirovanými orientálnou architektúrou. 
 
 ![Spišské Podhradie synagóga](synagoga-spisske-podhradie.jpg)
