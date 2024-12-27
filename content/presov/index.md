@@ -46,7 +46,7 @@ s prezentáciou histórie a súčasnosti liehovarníctva na severnom Spiši.
 **Stará Ľubovňa** - hrad Ľubovňa má bohatú históriu i zaujímavú architektúru.
 Počas 360 rokov bol sídlom správcov zálohovaného územia časti Spiša Poľsku.
 Najväčšmi sa preslávil početnými kráľovskými návštevami a šesť rokov tu boli
-uschované i poľské korunovačné klenoty.  Život na dedine v minulosti približuje
+uschované i poľské korunovačné klenoty. Život na dedine v minulosti približuje
 návštevníkom múzeum ľudovej architektúry pod hradom.
 
 ![Stará Ľubovňa](stara-lubovna.jpg)
@@ -60,29 +60,29 @@ zapísané do Zoznamu UNESCO.
 
 ![Bardejov](bardejov.jpg)
 
-**Bardejovské Kúpele** sa preslávili minerálnymi vodami, ktoré blahodarne
+**Bardejovské kúpele** sa preslávili minerálnymi vodami, ktoré blahodarne
 pôsobia na tráviaci trakt. V kúpeľoch sa liečila druhá manželka cisára
 Napoleona I. – Mária Lujza, ruský cár Alexander I. a v roku 1895 cisárovná
-Alžbeta, zvaná Sisi.
+Alžbeta, zvaná Sissi.
 
-![Bardejovské Kúpele](bardejovske-kupele.jpg)
+![Bardejovské kúpele](bardejovske-kupele.jpg)
 
-**Drevený kostolík vo Vyšnom Komárniku**
+**Drevený kostolík vo Vyšnom Komárniku** má ikonostas z 18 stor. a oltár s centrálnym obrazom zo 16. stor.
 
 ![Drevený kostolík vo Vyšnom Komárniku](vysny-komarnik.jpg)
 
 **Dukla** - o Dukliansky priesmyk sa na jeseň 1944 odohrali jedny z najťažších
-bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;československého armádneho zboru s vojnovým cintorínom. Vyhliadková veža stojí na mieste kde mal počas bojov veliteľské stanovište generál Ludvík Svoboda.
+bojov druhej svetovej vojny. Dnes je na tomto mieste Pamätník 1.&nbsp;československého armádneho zboru s vojnovým cintorínom. Vyhliadková veža stojí na mieste kde mal počas bojov veliteľské stanovisko generál Ludvík Svoboda.
 
 ![Dukla](dukla.jpg)
 
 ### 4. deň: Solivar – Fintice – Hanušovce nad Topľou
 
-**Solivar pri Prešove** - patrí medzi najvýznamnejšie technické pamiatky na
+**Solivar v Prešove** - patrí medzi najvýznamnejšie technické pamiatky na
 Slovensku. Je to unikátny komplex technických objektov na čerpanie a varenie
 soli zo soľanky, pochádzajúci zo 17. stor.
 
-![Solivar pri Prešove](solivar-presov.jpg)
+![Solivar v Prešove](solivar-presov.jpg)
 
 **Fintice** - najvýznamnejšou kultúrno-historickou pamiatkou je renesančný
 kaštieľ z prvej pol. 17. stor. Je v ňom galéria a múzeum ľudového umenia.
@@ -99,21 +99,21 @@ približuje návštevníkom regionálne dejiny staré niekoľko tisícročí.
 
 ### 5. deň: Levoča - Spišská Kapitula – Spišské Podhradie
 
-**Levoča** si zachovala charakter  stredovekého  mesta. Od roku  2009  je zapísaná
-na Zozname  UNESCO . Najvýznamnejšou a jedinečnou pamiatkou je  Chrám
-svätého Jakuba  s 11 gotickými a  renesančnými  krídlovými oltármi , vrátane
+**Levoča** si zachovala charakter stredovekého mesta. Od roku 2009 je zapísaná
+na Zozname UNESCO. Najvýznamnejšou a jedinečnou pamiatkou je Chrám
+svätého Jakuba s 11 gotickými a renesančnými krídlovými oltármi, vrátane
 najvyššieho dreveného gotického oltára na svete (18,6 m) od Majstra Pavla
 z Levoče.
 
 ![Levoča](levoca.jpg)
 
-**Spišská kapitula – pamiatka UNESCO**
+**Spišská Kapitula – pamiatka UNESCO**
 Dominantou je neskororománska katedrála sv. Martina z rokov 1245 - 1273
 s dvoma vežami. Katedrála má mimoriadne cenný interiér - gotické oltáre,
 sochy, náhrobky, kalichy, zvony ap. Fresky z roku 1317 znázorňujú korunováciu
-kráľa Karola Róberta.Za hodinovou vežou obnovili barokovú biskupskú záhradu.
+kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhradu.
 
-![Spišská kapitula](spiska-kapitula.jpg)
+![Spišská Kapitula](spiska-kapitula.jpg)
 
 **Spišské Podhradie synagóga** je jediná zachovaná na Spiši. Postavená bola v roku 1875 v neskorogotickom slohu s prvkami inšpirovanými orientálnou architektúrou. 
 
