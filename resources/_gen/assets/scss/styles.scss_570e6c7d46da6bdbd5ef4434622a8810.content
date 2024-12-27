@@ -8,6 +8,10 @@
   margin-right: 0;
 }
 
+.card__meta {
+  font-size: 1rem;
+}
+
 .full-width {
   grid-column: span 12;
 }
