@@ -20,16 +20,16 @@ Historické jadro Košíc tvorí najväčšiu pamiatkovú rezerváciu na Slovens
  <!-- ![Dóm svätej alžbety](dom-sv-alzbety-2.jpg)  -->
 
 **Rodošto**
-&nbsp;&nbsp;Pamätný dom Františka II. Rákocziho. Ide o repliku exilového domu z tureckého mestečka Rodošto, kde vodca posledného uhorského stavovského povstania František II. Rákoczi žil v rokoch 1720-1735. Expozícia približuje osobu kniežaťa, jeho život vo vyhnanstve a slávnostný pohreb v Košiciach.  
+&nbsp;&nbsp;Pamätný dom Františka II. Rákocziho. Ide o repliku exilového domu z tureckého mestečka Rodošto, kde vodca posledného uhorského stavovského povstania František II. Rákoczi žil v rokoch 1720 - 1735. Expozícia približuje osobu kniežaťa, jeho život vo vyhnanstve a slávnostný pohreb v Košiciach.  
 **Košický zlatý poklad**
-&nbsp;je komplex 2 920 zlatých mincí, troch zlatých medailí  a zlatej renesančnej reťaze objavený pri kopaní základov budovy finančného riaditeľstva na Hlavnej ulici č.68 v Košiciach v roku 1935. Unikátna zbierka  z obdobia 15. až 17. storočia je vo svojej nepoškodenej podobe od doby nálezu jedným z najväčších zlatých pokladov na svete.  
+&nbsp;je komplex 2 920 zlatých mincí, troch zlatých medailí  a zlatej renesančnej reťaze objavený pri kopaní základov budovy finančného riaditeľstva na Hlavnej ulici č. 68 v Košiciach v roku 1935. Unikátna zbierka  z obdobia 15. až 17. storočia je vo svojej nepoškodenej podobe od doby nálezu jedným z najväčších zlatých pokladov na svete.  
 **Urbanova veža**
 &nbsp;v prvej polovici 14. storočia a pôvodne slúžila ako zvonica dómu. Pred vežou sa nachádza zrekonštruovaný zvon Urban, ktorý bol zničený požiarom v roku 1966.
 
-### 2. deň: Jasov kláštor – Jasovská  jaskyňa – Rudník - Poproč
+### 2. deň: Jasov kláštor – Jasovská  jaskyňa - Poproč
 
 **Jasov**
-kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudovaná na mieste opevneného kláštora z r. 1229-41 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
+kláštor premonštrátov – veľkolepá baroková stavba z r. 1750 - 1766 vybudovaná na mieste opevneného kláštora z r. 1229 - 1241 – národná kultúrna pamiatka. Vzácna kláštorná knižnica a baroková záhrada.  
 ![Jasov kláštor](jasov-klastor.jpg)
 
 **Jasovská jaskyňa**
@@ -48,7 +48,7 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750-66 vybudova
 ![Žehra ](zehra.jpg)
 
 **Hodkovce**
-&nbsp;barokovo-klasicistický kaštieľ Csákyovcov  je sídlom domova sociálnych služieb, prehliadka je možná v rámci tzv. sociálneho turizmu.
+&nbsp;barokovo-klasicistický kaštieľ Csákyovcov je sídlom domova sociálnych služieb. Prehliadka je možná v rámci tzv. sociálneho turizmu.
 ![Hodkovce ](hodkovce.jpg)
 
 ### 4. deň: Dargov - Trebišov – Tokajská vinohradnícka oblasť
@@ -59,34 +59,35 @@ Trebišov**
 
 ![Trebišovský  kaštieľ ](trebisov-kastiel.jpg)
 
-**Dargov **
+**Dargov**
 &nbsp;pamätník pripomínajúci víťazstvo sovietskej armády v  bitke 
 o Dargovský priesmyk.
 
 
-**Vinohradnícka oblasť Tokaj  **
-&nbsp;leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.) Významnou dominantou Tokajskej vínnej cesty  je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa.  
+**Vinohradnícka oblasť Tokaj**
+&nbsp;leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)  
+Významnou dominantou Tokajskej vínnej cesty  je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa.  
 
 ![Tokajská vyhliadkova veža ](tokaj.jpg)   
 
-### 5. deň: Pozdišovce (keramika) – Michalovce  - Zemplínska  Šírava     
+### 5. deň: Pozdišovce - Močarany – Michalovce  - Zemplínska  Šírava     
 
-**Pozdišovce **
+**Pozdišovce**
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
 
-**Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického  **
+**Močarany (časť Michaloviec) - Pamätná izba Gorazda Zvonického**
 &nbsp;Gorazd Zvonický bol významný básnik katolíckej moderny, prekladateľ, pedagóg, kňaz a misionár. 
 
 **Zemplínska šírava**
 &nbsp;je vodná nádrž na východnom Slovensku. Je druhou najväčšou vodnou priehradou na Slovensku (po Liptovskej Mare). Okrem rekreácie slúži na zavlažovanie poľnohospodárskej pôdy Východoslovenskej nížiny, na ochranu pred povodňami a ako vodný zdroj pre priemysel. 
 ![Zemplínska šírava](zemplinska-sirava.jpg)
 
-**Pozdišovce **
+**Pozdišovce**
 &nbsp;Pamätník národným dejateľom, Pamätná izba histórie obce, pozdišovská keramika.
 
 ![Pozdišovce ](pozdisovce.jpg)   
 
-**Michalovce  **
+**Michalovce**
 &nbsp;barokovo-klasicistický kaštieľ rodu Sztárayovcov. Dnes sídlo Zemplínskeho múzea.  
 
 ![Michalovce ](michalovce-kastiel.jpg)   
@@ -132,17 +133,17 @@ mama hovorí, že tu text netreba a natáčal sa tu seriál 1890.
 
 ![Trebišovský  kaštieľ ](trebisov-kastiel.jpg)
 
-**Vinohradnícka  oblasť  Tokaj **
+**Vinohradnícka  oblasť  Tokaj**
 &nbsp;je najmenšou  aj najatraktívnejšou   vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)
 
 ![Vinohrady Tokaj ](tokaj-vinice.jpg)
 
 ### 4.deň: Smolník – Medzev – Štós kúpele Smolník
 
-**Smolník **
+**Smolník**
 &nbsp;centrum obce je pamiatková zóna - banícke domy, meštianske domy, kostol sv. Kataríny, baroková zvonica, tabaková továreň, kaplnky, trojičný stĺp, (prezentácia s výkladom baníka a s prehliadkou podzemných expozícií)
 
-**Smolnícky tajch **
+**Smolnícky tajch**
 &nbsp;štvorhektárové jazero v prostredí Volovských vrchov bolo zásobárňou vody pre banskú činnosť v Smolníku
 
 **Medzev**
@@ -154,7 +155,7 @@ mama hovorí, že tu text netreba a natáčal sa tu seriál 1890.
 
 ### 5. deň: Archeologické nálezisko a múzeum Nižná Myšľa – kaštieľ Šaca - Synagóga Košice
 
-**Nižná Myšľa **
+**Nižná Myšľa**
 &nbsp;archeologické nálezisko európskeho významu
 
 **Kaštieľ Šaca**
