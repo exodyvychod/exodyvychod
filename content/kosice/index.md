@@ -57,8 +57,8 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750 - 1766 vybu
 o Dargovský priesmyk.
 
 
-**Vinohradnícka oblasť Tokaj** leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.) 
-Významnou dominantou Tokajskej vínnej cesty je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa. 
+**Vinohradnícka oblasť Tokaj** leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)   
+  Významnou dominantou Tokajskej vínnej cesty je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa. 
 
 ![Tokajská vyhliadkova veža ](tokaj.jpg) 
 
@@ -86,14 +86,20 @@ Významnou dominantou Tokajskej vínnej cesty je vyhliadková veža v tvare drev
 
 ### 1. deň: Košice - mesto
 
-Kostol najsvätejšej trojice, prehliadka historického centra mesta, archeologické múzeum.
+**Univerzitný Kostol najsvätejšej trojice** prehliadka kostola s výkladom. 
+![Kostol najsvätejšej trojice](univerzitny-kostol.jpg)
+
+**Prehliadka historického centra mesta**, archeologické múzeum, spievajúce fontána.
 
 
-![Fotka historického jadra Košíc](spievajuca-fontana.jpg)
+
+![Spievajúca fontána](spievajuca-fontana.jpg)
 
 ### 2. deň:	Kostol Čečejovce – Rožňava – Betliar
 
 **Ranogotický kostol Čečejovce** pochádza z konca 13. storočia, je zdobený freskami zo 14. storočia. 
+
+![Kostol Čečejovce](cecejovce-kostol.jpg)
 
 **Rožňava** - dominantami námestia sú renesančná strážna veža, radnica, biskupský palác, kláštor vincentiek a budova bývalej banskej komory. 
 
@@ -101,11 +107,13 @@ Kostol najsvätejšej trojice, prehliadka historického centra mesta, archeologi
 
 ![Kaštieľ Betliar](kastiel-betliar.jpg)
 
-**Mauzóleum Andrássyovcov Krásnohorské Podhradie** 
+**Mauzóleum v Krásnohorskom Podhradí** je miestom posledného odpočinku grófa Dionýza Andrássyho a jeho manželky Františky rod. Hablawetz. Natáčal sa tu seriál 1890.
 
 ### 3. deň: Krásna nad Hornádom - Trebišov - Tokajská vinohradnícka oblasť
 
 **Krásna nad Hornádom** - kaštieľ, expozícia tradičného kroja.
+
+![Kaštieľ Krásna nad Hornádom](krasna-kastiel.jpg)
 
 **Trebišov** - barokový kaštieľ prestavaný v neorenesančnom slohu obklopený cudzokrajnými drevinami. Pozoruhodnou architektonickou pamiatkou je neogotické mauzóleum rodiny Andrássyovcov so sarkofágom Júliusa Andrássyho - posledného ministerského predsedu Rakúsko-Uhorska.
 
@@ -115,7 +123,7 @@ Kostol najsvätejšej trojice, prehliadka historického centra mesta, archeologi
 
 ![Vinohrady Tokaj ](tokaj-vinice.jpg)
 
-### 4. deň: Smolník – Medzev – Štós kúpele Smolník
+### 4. deň: Smolník – Medzev – Štós kúpele
 
 **Smolník** - centrum obce je pamiatková zóna - banícke domy, meštianske domy, kostol sv. Kataríny, baroková zvonica, tabaková továreň, kaplnky, trojičný stĺp, (prezentácia s výkladom baníka a s prehliadkou podzemných expozícií).
 
@@ -129,9 +137,15 @@ Kostol najsvätejšej trojice, prehliadka historického centra mesta, archeologi
 
 **Nižná Myšľa** - archeologické nálezisko európskeho významu.
 
+![Nižná Myšľa](nizna-mysla.jpg)
+
 **Kaštieľ Šaca** - rokokový kaštieľ z 18. storočia.
+
+![Kaštieľ Šaca](saca-kastiel.jpg)
 
 **Synagóga Košice** - ortodoxná synagóga predstavuje osobitú kombináciu historických prvkov a prvkov orientálnej architektúry. Expozícia judaík, Galéria Ľudovíta Felda.
 
-**[Pre návrat na vrchol stránky kliknite sem](#to-top-button)** 
+![Synagóga Košice](kosice-synagoga.jpg)
+
+**[Pre návrat na začiatok stránky kliknite sem](#kosice-neparny)** 
 {.text-align-right}
