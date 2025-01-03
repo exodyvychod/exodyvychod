@@ -4,7 +4,7 @@ title = "Prihláška a kontakt"
 ## Ako sa prihlásiť na pobyt?
 
 <ol>
-    <li>Stiahnite si dokument <a href="prihlaska.docx" class="underline">Prihláška.docx</a>
+    <li>Stiahnite si dokument <a href="prihlaska.docx" class="underline">Prihláška.docx</a> - každá osoba vrátane detí potrebuje samostatnú prihlášku. 
     <li>Vyplňte ho</li>
     <li>Odošlite ho na <a href="mailto:eva.vladovicova@gmail.com" class="underline">eva.vladovicova@gmail.com</a></li>
 </ol>

@@ -57,10 +57,11 @@ kláštor premonštrátov – veľkolepá baroková stavba z r. 1750 - 1766 vybu
 o Dargovský priesmyk.
 
 
-**Vinohradnícka oblasť Tokaj** leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska. (Návšteva pivnice spojená s ochutnávkou.)   
+**Vinohradnícka oblasť Tokaj** leží na dolnom Zemplíne v juhovýchodnom cípe Slovenska. Je pokračovaním vinohradníckej oblasti, ktorej väčšia časť sa nachádza v Maďarsku. Táto oblasť je najmenšou a zároveň najatraktívnejšou vinohradníckou oblasťou Slovenska.     
+ Návšteva pivnice spojená s ochutnávkou.   
   Významnou dominantou Tokajskej vínnej cesty je vyhliadková veža v tvare dreveného suda postavená vďaka slovensko – švajčiarskej spolupráce nad obcou Malá Tŕňa. 
 
-![Tokajská vyhliadkova veža ](tokaj.jpg) 
+![Tokajská vyhliadková veža ](tokaj.jpg) 
 
 ### 5. deň: Pozdišovce - Močarany – Michalovce - Zemplínska Šírava  
 
@@ -86,10 +87,10 @@ o Dargovský priesmyk.
 
 ### 1. deň: Košice - mesto
 
-**Univerzitný Kostol najsvätejšej trojice** prehliadka kostola s výkladom. 
+**Univerzitný Kostol najsvätejšej trojice**, prehliadka kostola s výkladom. 
 ![Kostol najsvätejšej trojice](univerzitny-kostol.jpg)
 
-**Prehliadka historického centra mesta**, archeologické múzeum, spievajúce fontána.
+**Prehliadka historického centra mesta**, archeologické múzeum, spievajúca fontána.
 
 
 
