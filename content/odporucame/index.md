@@ -42,6 +42,8 @@ pojištění, částečné vstupné, organizační výdaje, průvodcovskou a lek
 činnost, materiály a fotodokumentaci k základně.
 
 ### Kontakt
+
+Jaroslav Zika  
 **Email:** exody@exody.cz  
 **Mobil:** +420 602 212 698
 
@@ -60,6 +62,8 @@ Za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
 ### Kontakt
+
+Jaroslav Zika  
 **Email:** exody@exody.cz  
 **Mobil:** +420 602 212 698
 
@@ -77,5 +81,7 @@ Za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečn�
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
 ### Kontakt
+
+Jaroslav Zika  
 **Email:** exody@exody.cz  
 **Mobil:** +420 602 212 698
