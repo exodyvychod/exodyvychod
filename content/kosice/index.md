@@ -4,6 +4,8 @@ title = "Košice"
 {#kosice-top}
 ## Variant A v nepárnom roku {#kosice-neparny .trip-variant}
 
+**Cena: 285 € za ubytovanie** (vo vysokoškolskom internáte: 2- a 1- posteľová  hosťovská izba tvorí bunku s kúpeľňou, chladničkou, televízorom, wifi), **polpenziu** a **dopravu** autobusom podľa programu. **Účastníci do 18 rokov, nad 70 rokov, ŤZP a ŤZP-S neplatia poplatok mestu, preto majú cenu 268&nbsp;€.**
+
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
 **[Pre párny rok kliknite sem](#kosice-parny)** 
