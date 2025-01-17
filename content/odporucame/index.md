@@ -6,15 +6,9 @@ title = "Odporúčame"
 
 **Termín: 11. 8. - 17. 8. 2025**
 
-**Program:** Hrad, poľnohospodárske múzeum v Nitre, Drážovský kostolík, poľovnícky kaštieľ v Palárikove, hvezdáreň a Dom Hany Hegerovej v Hurbanove, Nádvorie Európy v Komárne, plávajúci lodný mlyn a najdlhší drevený most v Európe v Kolárove, hrad a Tekovské múzeum v Leviciach, skalné obydlia v Brhlovciach, Soví zámoček, Sachérova torta, izba Franza Schuberta, Esterházyho kaštieľ a hrobka v Želiezovciach, zubria zvernica, zámok a  žrebčín v Topoľčiankach, Arborétum Mlyňany, pamätná izba Karola Duchoňa, neogotický a renesančný kaštieľ Esterházyovcov, vlastivedné múzeum v Galante, motýlia záhrada vo Vlčkovciach.
+**Program:** Hrad Zobor, poľnohospodárske múzeum v Nitre, Drážovský kostolík, poľovnícky kaštieľ v Palárikove, hvezdáreň a Dom Hany Hegerovej v Hurbanove, Nádvorie Európy v Komárne, plávajúci lodný mlyn a najdlhší drevený most v Európe v Kolárove, hrad a Tekovské múzeum v Leviciach, skalné obydlia v Brhlovciach, Soví zámoček, Sachérova torta, izba Franza Schuberta, Esterházyho kaštieľ a hrobka v Želiezovciach, zubria zvernica, zámok a  žrebčín v Topoľčiankach, Arborétum Mlyňany, pamätná izba Karola Duchoňa, neogotický a renesančný kaštieľ Esterházyovcov, vlastivedné múzeum v Galante, motýlia záhrada vo Vlčkovciach.
 
-**Cena:** pripravuje sa
-
-**Ubytovanie:** v internáte - bunkový systém 2 a 3 posteľové izby so sociálnym zariadením a polpenzia
-
-**Doprava:** hromadná preprava autobusom počas pobytu
-
-**Služby:** sprievodcu s výkladom
+**Cena:** **230 € za ubytovanie** na stredoškolskom internáte- bunkový systém 2-3-4 posteľové izby s vlastným sociálnym zariadením, **polpenziu a dopravu** autobusom počas programu.
 
 ### Kontakt
 
@@ -36,7 +30,7 @@ Hurbanova 910/18
 
 **K dispozici:** parkoviště, venkovní bazén, sauna, wifi, tv na pokoji, klubnovna, víceúčelové hřiště, posilovna, venkovní posezení..
 
-**Cena:** bude upřesněno v lednu 2025  
+**Cena:** člen ČMOS 7.500,- Kč, nečlen 7.900,- Kč
 Za ubytování s polopenzí, přepravu autobusem každý den podle programu,
 pojištění, částečné vstupné, organizační výdaje, průvodcovskou a lektorskou
 činnost, materiály a fotodokumentaci k základně.
@@ -57,7 +51,7 @@ Za poznáním historického a kulturního dědictví regionu Malá Haná. Ukázk
 
 **Stravování:** polopenze a 1x oběd ve školní jídelně, 1x oběd na trase
 
-**Cena:** bude upřesněno v lednu 2025  
+**Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč
 Za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
@@ -75,7 +69,7 @@ Relaxační a poznávací pobyt.
 Budeme se věnovat hlavně návštěvám termálních koupališť, (Komárno, Komárom, Patince, Veľký Meder, Podhájska), prohlídce Komárna a okolí.
 
 **Ubytování:** Internát SŠ Gazdovská ul. Komárno – ubytování ve 2 až 4 lůžkových pokojích, soc. zař. na chodbě – oddělené, klubovna, venkovní posezení, kuchyňka, wifi, parkoviště.
-**Cena:** bude upřesněno v lednu 2025  
+**Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč 
 Za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
