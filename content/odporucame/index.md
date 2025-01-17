@@ -31,7 +31,7 @@ Hurbanova 910/18
 **K dispozici:** parkoviště, venkovní bazén, sauna, wifi, tv na pokoji, klubnovna, víceúčelové hřiště, posilovna, venkovní posezení..
 
 **Cena:** člen ČMOS 7.500,- Kč, nečlen 7.900,- Kč
-Za ubytování s polopenzí, přepravu autobusem každý den podle programu,
+za ubytování s polopenzí, přepravu autobusem každý den podle programu,
 pojištění, částečné vstupné, organizační výdaje, průvodcovskou a lektorskou
 činnost, materiály a fotodokumentaci k základně.
 
@@ -52,7 +52,7 @@ Za poznáním historického a kulturního dědictví regionu Malá Haná. Ukázk
 **Stravování:** polopenze a 1x oběd ve školní jídelně, 1x oběd na trase
 
 **Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč
-Za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně
+za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
 ### Kontakt
@@ -69,8 +69,9 @@ Relaxační a poznávací pobyt.
 Budeme se věnovat hlavně návštěvám termálních koupališť, (Komárno, Komárom, Patince, Veľký Meder, Podhájska), prohlídce Komárna a okolí.
 
 **Ubytování:** Internát SŠ Gazdovská ul. Komárno – ubytování ve 2 až 4 lůžkových pokojích, soc. zař. na chodbě – oddělené, klubovna, venkovní posezení, kuchyňka, wifi, parkoviště.
+
 **Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč 
-Za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně
+za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně
 vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
 ### Kontakt
