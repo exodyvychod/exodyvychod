@@ -4,7 +4,7 @@ title = "Košice"
 {#kosice-top}
 ## Variant A v nepárnom roku {#kosice-neparny .trip-variant}
 
-**Cena: 285 € za ubytovanie** (vo vysokoškolskom internáte: 2- a 1- posteľová  hosťovská izba tvorí bunku s kúpeľňou, chladničkou, televízorom, wifi), **polpenziu** a **dopravu** autobusom podľa programu. **Účastníci do 18 rokov, nad 70 rokov, ŤZP a ŤZP-S neplatia poplatok mestu, preto majú cenu 268&nbsp;€.**
+**Cena: XXX € za ubytovanie** (vo vysokoškolskom internáte: 2- a 1- posteľová  hosťovská izba tvorí bunku s kúpeľňou, chladničkou, televízorom, wifi), **polpenziu** a **dopravu** autobusom podľa programu. **Účastníci do 18 rokov, nad 70 rokov, ŤZP a ŤZP-S neplatia poplatok mestu, preto majú cenu XXX&nbsp;€.**
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
@@ -128,11 +128,19 @@ o Dargovský priesmyk.
 
 **Smolník** - centrum obce je pamiatková zóna - banícke domy, meštianske domy, kostol sv. Kataríny, baroková zvonica, tabaková továreň, kaplnky, trojičný stĺp, (prezentácia s výkladom baníka a s prehliadkou podzemných expozícií).
 
+![Smolník](smolnik.jpg)
+
 **Smolnícky tajch** - štvorhektárové jazero v prostredí Volovských vrchov bolo zásobárňou vody pre banskú činnosť v Smolníku.
+
+![Smolnícky tajch](smolnicky-tajch.jpg)
 
 **Medzev** - múzeum kinematografie rodiny Schusterovej.
 
-**Štós – klimatické kúpele**
+![Medzev](medzev.jpg)
+
+**Štós** – klimatické kúpele
+
+![Štós](stos.jpg)
 
 ### 5. deň: Archeologické nálezisko a múzeum Nižná Myšľa – kaštieľ Šaca - Synagóga Košice
 

@@ -5,7 +5,7 @@ title = "Prešov"
 ## Variant A v nepárnom roku
 
 
-**Cena: 235 € za ubytovanie** vo vysokoškolskom internáte v 2-posteľových študentských izbách s vlastným sociálnym zariadením a balkónom, (možnosť ubytovania v hosťovských izbách - chladnička, televízor, wifi - za príplatok 7 €/osoba/noc, (kúpeľňa v pôvodnom stave), 10 €/osoba/noc (zrekonštruovaná kúpeľňa)),  **polpenziu** a **dopravu** autobusom počas programu.
+**Cena: XXX € za ubytovanie** vo vysokoškolskom internáte v 2-posteľových študentských izbách s vlastným sociálnym zariadením a balkónom, (možnosť ubytovania v hosťovských izbách - chladnička, televízor, wifi - za príplatok 7 €/osoba/noc, (kúpeľňa v pôvodnom stave), 10 €/osoba/noc (zrekonštruovaná kúpeľňa)),  **polpenziu** a **dopravu** autobusom počas programu.
 
 **Záujem o hosťovskú izbu je nutné uviesť v prihláške.**
 
