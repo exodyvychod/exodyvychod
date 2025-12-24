@@ -1,7 +1,6 @@
 baseURL = "https://exodyvychod.github.io/exodyvychod/"
 title = "Exod Východ"
 copyright = "Copyright © 2024"
-paginate = 6
 languageCode = "sk"
 DefaultContentLanguage = "sk"
 enableInlineShortcodes = true
@@ -148,7 +147,7 @@ theme = 'calligraphy'
   extended = true
   min = "0.111.3"
 
-[privacy.twitter]
+[privacy.x]
   enableDNT = true
 
 [privacy.vimeo]

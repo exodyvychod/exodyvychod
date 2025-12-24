@@ -9,6 +9,6 @@
 {{- end }}
 {{- else if gt .Paginator.TotalPages 1 }}
 <footer class="site__container">
-{{ template "_internal/pagination.html" . }}
+{{ partial "pagination.html" . }}
 </footer>
 {{- end }}
