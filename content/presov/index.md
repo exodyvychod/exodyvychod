@@ -123,3 +123,49 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 **Spišské Podhradie** - synagóga je jediná zachovaná na Spiši. Postavená bola v roku 1875 v neskorogotickom slohu s prvkami inšpirovanými orientálnou architektúrou. 
 
 ![Spišské Podhradie synagóga](synagoga-spisske-podhradie.jpg)
+
+## Variant B v párnom roku
+
+**Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
+
+### 1. deň: Františkánsky kostol sv. Jozefa - Čierny orol – historické centrum
+
+![Krajské múzeum prešov](krajske-muzeum-presov.jpg)
+
+![Františkánsky kostol sv. Jozefa](frantiskansky-kostol.jpg)
+
+![Čierny orol](cierny-orol.jpg)
+
+### 2. deň: Krivany centrum ľudovej kultúry – Krivany kamenný vodný mlyn – Ľutina vyhliadková veža, kostol, skanzen drevených kostolíkov, Galéria Mikuláša Klimčáka
+
+![Krivany centrum ľudovej kultúry](krivany-centrum.jpg)
+
+![Krivany kamenný vodný mlyn](kamenny-vodny-mlyn-v-krivanoch.jpg)
+
+![Ľutina vyhliadková veža](vyhliadkova-veza-lutina.jpg)
+
+![Galéria Mikuláša Klimčáka](galeria-mikulasa-klimcaka.jpg)
+
+### 3. deň: Hervartov – Bardejov Židovské suburbium, pamätník holokaustu – Bardejovské kúpele
+
+![Hervartov](hervartov.jpg)
+
+![Bardejov](bardejov2.jpg)
+
+![Bardejovské kúpele](bardejovske-kupele2.jpg)
+
+### 4. deň: Plavba loďou po Domaši – Stropkov múzeum – Tokajík Pamätník a múzeum tokajíckej tragédie
+
+![Domaša](domasa.jpg)
+
+![Stropkov](stropkov-kastiel.jpg)
+
+![Tokajík](tokajik.jpg)
+
+### 5. deň: Kaštieľ Petrovany – Opálová baňa Dubník – Expozícia minerálov Opiná
+
+![Kaštieľ Petrovany](kastiel-petrovany.jpg)
+
+![Opálová baňa Dubník](opal.jpg)
+
+![Expozícia minerálov Opiná](opina.jpg)
