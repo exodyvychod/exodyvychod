@@ -1,8 +1,11 @@
 +++
 title = "Košice"
-+++ 
-{#kosice-top}
-## Variant A v nepárnom roku {#kosice-neparny .trip-variant}
++++
+
+<div class="custom-variants">
+<div class="custom-variant">
+
+## Variant A (v nepárnom roku) {#kosice-neparny .trip-variant}
 
 **Cena: XXX € za ubytovanie** (vo vysokoškolskom internáte: 2- a 1- posteľová  hosťovská izba tvorí bunku s kúpeľňou, chladničkou, televízorom, wifi), **polpenziu** a **dopravu** autobusom podľa programu. **Účastníci do 18 rokov, nad 70 rokov, ŤZP a ŤZP-S neplatia poplatok mestu, preto majú cenu XXX&nbsp;€.**
 
@@ -78,7 +81,10 @@ o Dargovský priesmyk.
 
 ![Michalovce ](michalovce-kastiel.jpg) 
 
-## Košice Variant B v párnom roku {#kosice-parny .trip-variant}
+</div>
+<div class="custom-variant">
+
+## Košice Variant B (v párnom roku) {#kosice-parny .trip-variant}
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
@@ -158,3 +164,6 @@ o Dargovský priesmyk.
 
 **[Pre návrat na začiatok stránky kliknite sem](#kosice-neparny)** 
 {.text-align-right}
+
+</div>
+</div>

@@ -2,14 +2,19 @@
 title = "Prešov"
 +++
 
-## Variant A v nepárnom roku
+<div class="custom-variants">
+<div class="custom-variant">
 
+## Variant A (v nepárnom roku) {#presov-neparny .trip-variant}
 
 **Cena: XXX € za ubytovanie** vo vysokoškolskom internáte v 2-posteľových študentských izbách s vlastným sociálnym zariadením a balkónom, (možnosť ubytovania v hosťovských izbách - chladnička, televízor, wifi - za príplatok 7 €/osoba/noc, (kúpeľňa v pôvodnom stave), 10 €/osoba/noc (zrekonštruovaná kúpeľňa)),  **polpenziu** a **dopravu** autobusom počas programu.
 
 **Záujem o hosťovskú izbu je nutné uviesť v prihláške.**
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
+
+**[Pre párny rok kliknite sem](#presov-parny)** 
+{.text-align-right}
 
 ### 1. deň: Prešov
 
@@ -124,9 +129,15 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 
 ![Spišské Podhradie synagóga](synagoga-spisske-podhradie.jpg)
 
-## Variant B v párnom roku
+</div>
+<div class="custom-variant">
+
+## Variant B (v párnom roku) {#presov-parny .trip-variant}
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
+
+**[Pre nepárny rok kliknite sem](#presov-neparny)** 
+{.text-align-right}
 
 ### 1. deň: Františkánsky kostol sv. Jozefa - Čierny orol – historické centrum
 
@@ -169,3 +180,5 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 ![Opálová baňa Dubník](opal.jpg)
 
 ![Expozícia minerálov Opiná](opina.jpg)
+</div>
+</div>

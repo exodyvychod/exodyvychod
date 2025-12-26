@@ -4,6 +4,7 @@
 }
 
 .card__content {
+  display: none;
   margin-left: 0;
   margin-right: 0;
 }
@@ -152,4 +153,8 @@ a:hover .card__description, a:focus .card__description {
   .modal-content {
     width: 100%;
   }
+}
+.custom-variants {
+  display: flex;
+  flex-direction: column;
 }
