@@ -22,18 +22,18 @@ Hurbanova 910/18
 
 ## CHKO Brdy
 
-**Termín: 4. – 10. 8. 2025**
+**Termín: 10. – 16. 8. 2026**
 
-**Navštívíme:** Olymp Brd – Plešivec, Muzeum litiny, Benešův kryt, Zámeček Tři Trubky, Hrad Valdek, Padrťské rybníky Rozhledna Kotel a další objekty.
+**Navštívíme:** Olymp Brd – Plešivec, Muzeum litiny, Benešův kryt, Zámeček Tři Trubky, Hrad Valdek, Padrťské rybníky, Rozhledna Kotel a další objekty.
 
-**Ubytování:** Hotel Resort Brdy Mýto ve 2 a 3 lůžkových pokojích s vlastním soc. zařízení. Ubytování samostatně na pokoji, pouze za úhradu druhého lůžka!
+**Ubytování:** Hotel Resort Brdy Mýto ve 2 a 3 lůžkových pokojích s vlastním soc. zařízení. Ubytování samostatně na pokoji, pouze za úhradu druhého lůžka! (3.600,-Kč)
 
-**K dispozici:** parkoviště, venkovní bazén, sauna, wifi, tv na pokoji, klubnovna, víceúčelové hřiště, posilovna, venkovní posezení..
+**K dispozici:** parkoviště, venkovní bazén, sauna, wifi, tv na pokoji, klubovna, víceúčelové hřiště, posilovna, venkovní posezení..
 
-**Cena:** člen ČMOS 7.500,- Kč, nečlen 7.900,- Kč
-za ubytování s polopenzí, přepravu autobusem každý den podle programu,
-pojištění, částečné vstupné, organizační výdaje, průvodcovskou a lektorskou
-činnost, materiály a fotodokumentaci k základně.
+**Cena:** člen ČMOS 8.200,- Kč, nečlen 8.650,- Kč za ubytování s polopenzí, přepravu autobusem každý den podle programu, pojištění, částečné vstupné, organizační výdaje průvodcovskou a lektorskou činnost, materiály a fotodokumentaci k základně.
+
+Podrobné informace na stránce [www.exody.cz](https://exody.cz).  
+**Organizátor:** OR ČMOS PŠ Blansko
 
 ### Kontakt
 
@@ -41,38 +41,38 @@ Jaroslav Zika
 **Email:** exody@exody.cz  
 **Mobil:** +420 602 212 698
 
-## Malá Haná
+## S DUDÁKEM PO STRAKONICKU
 
-**Termín: 18. – 24. 8.2025**
+**Termín: 3. – 8. 8. 2026**
 
-Za poznáním historického a kulturního dědictví regionu Malá Haná. Ukázky z činností regionálních spolků z oblasti kultury a další. Boskovice (zámek, hrad, synagoga), Jevíčko (žiletkárna, múzeum, kostel), Svitávka, Letovice (zámek, klášterní lékárna, kostel), Vanovice, jeskyně Balcarka, poutní místo Křtiny,...
+Za poznáním historického a kulturního dědictví Strakonicka. Navštívíme zámky a hrady ve Strakonicích, vystoupáme na rozhledny a vyhlídky. Zajdeme na exkurzi a čekají nás různá občerstvovací místa.
 
-**Ubytování:** Internát SŠ Boskovice – ubytování ve 2 a 3 lůžkových, rekonstruovaných, pokojích, většina pokojů má vlastní soc. zař., ostaní jsou vždy 2 v buňce a mají společné soc. zař. a sprchu, klubovna, venkovní posezení, kuchyňka, wifi, parkoviště.
+**Ubytování:** Internát SŠ Strakonice – ubytování ve 2 a 3 lůžkových pokojích, dva pokoje v buňce mají společné soc. zař. a sprchu, klubovna, kuchyňka
 
-**Stravování:** polopenze a 1x oběd ve školní jídelně, 1x oběd na trase
+**Stravování:** polopenze ve školní jídelně
 
-**Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč
-za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně
-vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
+**Cena:** 5.500,-Kč člen ČMOS, 5.900,-Kč ostatní za ubytování, polopenzi, tři dny dopravu autobusem dle programu, částečně vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
+
+Podrobné informace na stránce [www.exody.cz](https://exody.cz).  
+**Organizátor:** OR ČMOS PŠ Blansko
 
 ### Kontakt
 Jaroslav Zika  
 **Email:** exody@exody.cz  
 **Mobil:** +420 602 212 698
 
-## Komárno
+## Komárno - historie a termály
 
-**Termín: 4. – 13. 7. 2025**
-
-Relaxační a poznávací pobyt.
+**Termín: 4. – 12. 7. 2026**
 
 Budeme se věnovat hlavně návštěvám termálních koupališť, (Komárno, Komárom, Patince, Veľký Meder, Podhájska), prohlídce Komárna a okolí.
 
 **Ubytování:** Internát SŠ Gazdovská ul. Komárno – ubytování ve 2 až 4 lůžkových pokojích, soc. zař. na chodbě – oddělené, klubovna, venkovní posezení, kuchyňka, wifi, parkoviště.
 
-**Cena:** Cena: člen ČMOS 5.200,- Kč, nečlen 5.900,- Kč 
-za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně
-vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
+**Cena:** Cena: člen ČMOS 7.600,- Kč, nečlen 8.000,- Kč za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
+
+Podrobné informace na stránce [www.exody.cz](https://exody.cz).  
+**Organizátor:** OR ČMOS PŠ Blansko
 
 ### Kontakt
 Jaroslav Zika  
