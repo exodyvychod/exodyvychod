@@ -24,7 +24,7 @@ modalClose.addEventListener('click', () => {
 // order trip variants
 addEventListener('load', () => {
     const variants = document.querySelector('.card--page .custom-variants');
-    const cardContent = document.querySelector('.card__content');
+    const cardContent = document.querySelector('.card--page .card__content');
     const now = new Date();
     const year = now.getFullYear();
     const month = now.getMonth();

@@ -4,9 +4,12 @@
 }
 
 .card__content {
-  display: none;
   margin-left: 0;
   margin-right: 0;
+}
+
+.card--page .card__content {
+  display: none;
 }
 
 .card__meta {
