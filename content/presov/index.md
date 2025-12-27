@@ -141,43 +141,77 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 
 ### 1. deň: Františkánsky kostol sv. Jozefa - Čierny orol – historické centrum
 
+**Historické centrum mesta Prešov** - je bohaté na kultúrne i historické objekty. Budovy ako Bosákova banka, Caraffova väznica, Evanjelické kolégium, Gréckokatolícky chrám sv. Jána Krstiteľa, Rákocziho palác, radnica či Floriánova brána patria medzi zaujímavé historické objekty, dejiny ktorých siahajú až do 14. storočia.
+
 ![Krajské múzeum prešov](krajske-muzeum-presov.jpg)
 
+**Františkánsky kostol svätého Jozefa** - ranobarokový rímskokatolícky kláštorný kostol z konca 14. storočia.
+
 ![Františkánsky kostol sv. Jozefa](frantiskansky-kostol.jpg)
+
+**Čierny orol** - historická budova, pôvodne hostinec a neskôr kultúrne centrum (reduta) postavená na začiatku 19. storočia.
 
 ![Čierny orol](cierny-orol.jpg)
 
 ### 2. deň: Krivany centrum ľudovej kultúry – Krivany kamenný vodný mlyn – Ľutina vyhliadková veža, kostol, skanzen drevených kostolíkov, Galéria Mikuláša Klimčáka
 
+**Krivany Centrum ľudovej kultúry** - etnografická expozícia prezentujúca ľudovú tradíciu Šariša, s autentickými sýpkami, drevenicou, remeselníckym dvorom, krojmi a amfiteátrom.
+
 ![Krivany centrum ľudovej kultúry](krivany-centrum.jpg)
+
+**Krivany kamenný vodný mlyn** - pozoruhodná technická pamiatka zo 17. storočia.
 
 ![Krivany kamenný vodný mlyn](kamenny-vodny-mlyn-v-krivanoch.jpg)
 
+**Ľutina** - najvýznamnejšie pútnické miesto gréckokatolíkov na Slovensku s najstaršou gréckokatolíckou bazilikou minor.
+
+**Ľutina** - Miniskanzen drevených chrámov sú repliky, ktoré patria medzi skvosty ľudovej sakrálnej architektúry z východného Slovenska, Poľska a Ukrajiny.
+
 ![Ľutina vyhliadková veža](vyhliadkova-veza-lutina.jpg)
+
+**Galéria Mikuláša Klimčáka** - Veľkolepá výzdoba Baziliky v Ľutine je dielom humenského rodáka Mikuláša Klimčáka. V blízkosti baziliky otvorili jeho galériu.
 
 ![Galéria Mikuláša Klimčáka](galeria-mikulasa-klimcaka.jpg)
 
 ### 3. deň: Hervartov – Bardejov Židovské suburbium, pamätník holokaustu – Bardejovské kúpele
 
+**Hervartov** - drevený rímskokatolícky Kostol svätého Františka z Assisi z konca 15. storočia zapísaný v UNESCO. Ide o najstarší a najzachovalejší drevený kostol na Slovensku.
+
 ![Hervartov](hervartov.jpg)
 
+**Bardejov** - Stará synagóga a synagóga Bikur Cholim - Židovské suburbium je významnou pamiatkou židovského dedičstva zapísané v UNESCO.
+
 ![Bardejov](bardejov2.jpg)
+
+**Bardejovské kúpele** - sú jedny z najstarších kúpeľov. Prvá písomná zmienka je z roku 1247. Preslávili sa minerálnymi vodami, ktoré blahodarne pôsobia na trávenie. V kúpeľoch sa liečila druhá manželka cisára Napoleona I. – Mária Lujza, ruský cár Alexander I. a tiež cisárovná Alžbeta, zvaná Sisi.
 
 ![Bardejovské kúpele](bardejovske-kupele2.jpg)
 
 ### 4. deň: Plavba loďou po Domaši – Stropkov múzeum – Tokajík Pamätník a múzeum tokajíckej tragédie
 
+**Vodné dielo Domaša** - bolo vybudované na rieke Ondave v rokoch 1962 - 1967.
+
 ![Domaša](domasa.jpg)
 
+**Stropkov** - kaštieľ je posledná zachovaná svetská časť mestského hradu. Jeho najcennejšou časťou je tzv. rytierska sieň.
+
 ![Stropkov](stropkov-kastiel.jpg)
+
+**Pamätník a Múzeum tokajíckej tragédie** - 19. novembra 1944 zavraždili fašisti 32 nevinných mužov a vypálili obec Tokajík.
 
 ![Tokajík](tokajik.jpg)
 
 ### 5. deň: Kaštieľ Petrovany – Opálová baňa Dubník – Expozícia minerálov Opiná
 
+**Kaštieľ Petrovany** - barokovo–klasicistické sídlo baróna Alfonza Vécseyiho a grófa Františka Klobušického.
+
 ![Kaštieľ Petrovany](kastiel-petrovany.jpg)
 
+**Dubník** - opálová baňa je svetovo unikátna, historicky najstaršia opálová baňa na svete.
+
 ![Opálová baňa Dubník](opal.jpg)
+
+**Opiná** - v areáli kaštieľa je v podzemí umiestnená Expozícia minerálov a hornín Slanských vrchov.
 
 ![Expozícia minerálov Opiná](opina.jpg)
 </div>
