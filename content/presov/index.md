@@ -143,7 +143,7 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 
 **Historické centrum mesta Prešov** - je bohaté na kultúrne i historické objekty. Budovy ako Bosákova banka, Caraffova väznica, Evanjelické kolégium, Gréckokatolícky chrám sv. Jána Krstiteľa, Rákocziho palác, radnica či Floriánova brána patria medzi zaujímavé historické objekty, dejiny ktorých siahajú až do 14. storočia.
 
-![Krajské múzeum prešov](krajske-muzeum-presov.jpg)
+![Bosákova banka](bosakova-banka.jpg)
 
 **Františkánsky kostol svätého Jozefa** - ranobarokový rímskokatolícky kláštorný kostol z konca 14. storočia.
 
