@@ -181,13 +181,13 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 
 **Bardejov** - Stará synagóga a synagóga Bikur Cholim - Židovské suburbium je významnou pamiatkou židovského dedičstva zapísané v UNESCO.
 
-![Bardejov](bardejov2.jpg)
+![Stará synagóga](bardejov2.jpg)
 
-**Bardejovské kúpele** - sú jedny z najstarších kúpeľov. Prvá písomná zmienka je z roku 1247. Preslávili sa minerálnymi vodami, ktoré blahodarne pôsobia na trávenie. V kúpeľoch sa liečila druhá manželka cisára Napoleona I. – Mária Lujza, ruský cár Alexander I. a tiež cisárovná Alžbeta, zvaná Sisi.
+**Bardejovské kúpele** - sú jedny z najstarších kúpeľov. Prvá písomná zmienka je z roku 1247. Preslávili sa minerálnymi vodami, ktoré blahodarne pôsobia na trávenie. V kúpeľoch sa liečila druhá manželka cisára Napoleona I. – Mária Lujza, ruský cár Alexander I. a tiež cisárovná Alžbeta, zvaná Sissi.
 
 ![Bardejovské kúpele](bardejovske-kupele2.jpg)
 
-### 4. deň: Plavba loďou po Domaši – Stropkov múzeum – Tokajík Pamätník a múzeum tokajíckej tragédie
+### 4. deň: Plavba loďou po Domaši – Stropkov múzeum – Tokajík Pamätník a Múzeum tokajíckej tragédie
 
 **Vodné dielo Domaša** - bolo vybudované na rieke Ondave v rokoch 1962 - 1967.
 
