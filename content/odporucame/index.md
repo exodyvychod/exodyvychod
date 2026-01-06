@@ -45,7 +45,8 @@ Jaroslav Zika
 
 **Termín: 3. – 8. 8. 2026**
 
-Za poznáním historického a kulturního dědictví Strakonicka. Navštívíme zámky a hrady ve Strakonicích, vystoupáme na rozhledny a vyhlídky. Zajdeme na exkurzi a čekají nás různá občerstvovací místa.
+Za poznáním historického a kulturního dědictví Strakonicka. Strakonice hrad, město, kostel sv. Jana v Radomyšli, vodní zámek
+Blatná, Horažďovice, vodní hrad Švihov, Klatovy, Sudoměř, Putim...
 
 **Ubytování:** Internát SŠ Strakonice – ubytování ve 2 a 3 lůžkových pokojích, dva pokoje v buňce mají společné soc. zař. a sprchu, klubovna, kuchyňka
 
@@ -69,7 +70,7 @@ Budeme se věnovat hlavně návštěvám termálních koupališť, (Komárno, Ko
 
 **Ubytování:** Internát SŠ Gazdovská ul. Komárno – ubytování ve 2 až 4 lůžkových pokojích, soc. zař. na chodbě – oddělené, klubovna, venkovní posezení, kuchyňka, wifi, parkoviště.
 
-**Cena:** Cena: člen ČMOS 7.600,- Kč, nečlen 8.000,- Kč za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
+**Cena:** člen ČMOS 7.600,- Kč, nečlen 8.000,- Kč za ubytování, polopenzi, dopravu autobusem v místě dle programu, částečně vstupy, organizační výdaje a pojištění, lektorské a průvodcovské služby.
 
 Podrobné informace na stránce [www.exody.cz](https://exody.cz).  
 **Organizátor:** OR ČMOS PŠ Blansko
