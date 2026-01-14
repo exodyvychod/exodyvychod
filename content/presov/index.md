@@ -9,7 +9,7 @@ title = "Prešov"
 
 **Cena: XXX € za ubytovanie** vo vysokoškolskom internáte v 2-posteľových študentských izbách s vlastným sociálnym zariadením a balkónom, (možnosť ubytovania v hosťovských izbách - chladnička, televízor, wifi - za príplatok 7 €/osoba/noc, (kúpeľňa v pôvodnom stave), 10 €/osoba/noc (zrekonštruovaná kúpeľňa)),  **polpenziu** a **dopravu** autobusom počas programu.
 
-**Záujem o hosťovskú izbu je nutné uviesť v prihláške.**
+**Záujem o hosťovskú izbu je nutné uviesť v prihláške!**
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
@@ -133,6 +133,10 @@ kráľa Karola Róberta. Za hodinovou vežou obnovili barokovú biskupskú záhr
 <div class="custom-variant">
 
 ## Variant B (v párnom roku) {#presov-parny .trip-variant}
+
+**Cena: 235&nbsp;€ za ubytovanie** (vo vysokoškolskom internáte v 2-posteľových študentských izbách s vlastným sociálnym zariadením a balkónom. Možnosť ubytovania v hosťovských izbách - chladnička, televízor, wifi - za príplatok 10&nbsp;€/osoba/noc), **polpenziu** a **dopravu** autobusom počas programu.
+
+**Záujem o hosťovskú izbu je nutné uviesť v prihláške!**
 
 **Upozorňujeme účastníkov, že poradie výletov sa môže meniť!**
 
