@@ -8,7 +8,7 @@ title = "Odporúčame"
 
 **Program:** Hrad, Zobor, poľnohospodárske múzeum v Nitre, Drážovský kostolík, poľovnícky kaštieľ v Palárikove, hvezdáreň a Dom Hany Hegerovej v Hurbanove, plávajúci lodný mlyn a najdlhší drevený most v Európe v Kolárove, hrad a Tekovské múzeum v Leviciach, skalné obydlia v Brhlovciach, Soví zámoček, Sachérova torta, izba Franza Schuberta, Esterházyho kaštieľ a hrobka v Želiezovciach, zámok a  žrebčín v Topoľčiankach, Arborétum Mlyňany, múzeum v Zlatých Moravciach, Apponiovská knižnica a kaštieľ v Oponiciach, Topoľčiansky hrad v Podhradí pri Topoľčanoch.
 
-**Cena:** **230&nbsp;€ za ubytovanie** na stredoškolskom internáte bez výťahu - bunkový systém 2-3-4 posteľové izby s vlastným sociálnym zariadením, polpenziu a dopravu autobusom počas programu, **polpenziu a dopravu** autobusom počas programu, služby sprievodcu s výkladom.
+**Cena:** **230&nbsp;€ za ubytovanie** na stredoškolskom internáte bez výťahu - bunkový systém 2-3-4 posteľové izby s vlastným sociálnym zariadením, **polpenziu a dopravu** autobusom počas programu, služby sprievodcu s výkladom.
 
 ### Kontakt
 
