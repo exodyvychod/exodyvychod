@@ -20,9 +20,45 @@ Hurbanova 910/18
 **Mobil O2:** +421 949 839 315  
 **Mobil 4-ka:** +421 950 385 575
 
+## Trnava a okolie
+
+**Termín: 10. 8. - 16. 8. 2026**
+
+**Program:** **Trnava** - mestská veža, Západoslovenské múzeum, Dom hudby Mikuláša Schneidera Trnavského, kostoly - Katedrála sv. Jána Krstiteľa, Kostol Najsvätejšej Trojice, mestské opevnenie, synagógy, seminárne budovy, **Dolná Krupá** - kaštieľ, Beethovenov domček, najväčšie súkromné rozárium M. H. Chotekovej Medolandia, **Modra** - Slovenská ľudová majolika, Múzeum Ľudovíta Štúra, Múzeum slovenskej keramickej plastiky, **Hlohovec** - zámok, záhrady, empírové divadlo, **Partizánske** - mestské múzeum, Baťove domčeky, **Brodzany** - Slovenské múzeum A. S. Puškina, **Častá** - hrad Červený Kameň, **Budmerice** - kaštieľ, **Voderady** - kaštieľ, **Oponice** - Apponyiovská knižnica a Apponyiho poľovnícke múzeum, Topoľčiansky hrad v **Podhradí** pri Topoľčanoch.
+
+**Cena:** 275&nbsp;€ za ubytovanie na vysokoškolskom internáte v Trnave s výťahom - bunkový systém 2-dvojposteľové izby s vlastným sociálnym zariadením, **polpenziu a dopravu** autobusom počas programu.
+
+### Kontakt
+
+Mgr. Veronika Mondočková  
+Hurbanova 910/18  
+927 01 Šaľa
+
+**Email:** exod.trnava@centrum.com  
+**Mobil O2:** +421 949 839 315  
+**Mobil 4-ka:** +421 950 385 575
+
+## Okolie Bratislavy
+
+**Termín: 27. 7. - 1. 8. 2026**
+
+**Program:** **Ivanka pri Dunaji** - Mohyla M. R. Štefánika, **Senec** - mestské múzeum, **Kráľová pri Senci** – Včelárska paseka a skanzen Slovenského zväzu včelárov, **Pezinok** - zámok Šimák, Malokarpatské múzeum, **Svätý Jur** - Literárne a vlastivedné  múzeum, **Malacky** - kaštieľ Pálffyovcov, kaplnka Svätých schodov, synagóga, Múzeum Michala Tillnera, **Kostolište** - pamätná izba Martina Benku, **Kopčany** - Cisársko-kráľovský žrebčín, Kostol sv. Margity Antiochijskej, **Holíč** - zámok, megality, veterný mlyn, **Gbely** - mestská a naftárska expozícia, **Šaštín - Stráže** - Bazilika Sedembolestnej Panny Márie, **Borský Mikuláš** - rodný dom Jána Hollého, **Skalica** - Rotunda sv. Juraja, Františkánsky kostol Sedembolestnej Panny Márie, skalický trdelník, Dom kultúry - projekt Dušana Jurkoviča, expozícia kníhtlače, **Viedeň** - prehliadka mesta: Marie Theresien platz, parlament, Rathaus, **Hofburg** - národná knižnica, pietne miesto Habsburgovcov, klenotnica, Kohlmarkt, Zlatá ulička - **kostol sv. Petra**, **Graben** - Stephansplatz, **Dóm sv. Štefana**, **Schonbrunn** - ružová záhrada, park, bludisko.
+
+**Cena:** 275&nbsp;€ za ubytovanie na vysokoškolskom internáte v Bratislave bez výťahu v izbách 1- 2-3 posteľových so spoločným sociálnym zariadením na chodbe, **polpenziu a dopravu** autobusom počas programu.
+
+### Kontakt
+
+Mgr. Veronika Mondočková  
+Hurbanova 910/18  
+927 01 Šaľa
+
+**Email:** exod.ba@centrum.com  
+**Mobil O2:** +421 949 839 315  
+**Mobil 4-ka:** +421 950 385 575
+
 ## CHKO Brdy
 
-**Termín: 10. – 16. 8. 2026**
+**Termín: 10. 8. – 16. 8. 2026**
 
 **Navštívíme:** Olymp Brd – Plešivec, Muzeum litiny, Benešův kryt, Zámeček Tři Trubky, Hrad Valdek, Padrťské rybníky, Rozhledna Kotel a další objekty.
 
@@ -43,7 +79,7 @@ Jaroslav Zika
 
 ## S DUDÁKEM PO STRAKONICKU
 
-**Termín: 3. – 8. 8. 2026**
+**Termín: 3. 8. – 8. 8. 2026**
 
 Za poznáním historického a kulturního dědictví Strakonicka. Strakonice hrad, město, kostel sv. Jana v Radomyšli, vodní zámek
 Blatná, Horažďovice, vodní hrad Švihov, Klatovy, Sudoměř, Putim...
@@ -64,7 +100,7 @@ Jaroslav Zika
 
 ## Komárno - historie a termály
 
-**Termín: 4. – 12. 7. 2026**
+**Termín: 4. 7. – 12. 7. 2026**
 
 Budeme se věnovat hlavně návštěvám termálních koupališť, (Komárno, Komárom, Patince, Veľký Meder, Podhájska), prohlídce Komárna a okolí.
 
