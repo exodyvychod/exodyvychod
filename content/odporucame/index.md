@@ -34,7 +34,7 @@ Mgr. Veronika Mondočková
 Hurbanova 910/18  
 927 01 Šaľa
 
-**Email:** exod.trnava@centrum.com  
+**Email:** exod.trnava@centrum.sk  
 **Mobil O2:** +421 949 839 315  
 **Mobil 4-ka:** +421 950 385 575
 
@@ -52,7 +52,7 @@ Mgr. Veronika Mondočková
 Hurbanova 910/18  
 927 01 Šaľa
 
-**Email:** exod.ba@centrum.com  
+**Email:** exod.ba@centrum.sk  
 **Mobil O2:** +421 949 839 315  
 **Mobil 4-ka:** +421 950 385 575
 
